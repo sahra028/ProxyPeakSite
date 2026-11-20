@@ -6,7 +6,7 @@ from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 
 CHANNEL = "ProxyPeak"
-LIMIT = 20
+LIMIT = 40
 OUT = Path(__file__).resolve().parent.parent / "proxies.json"
 HOST = re.compile(r"^[A-Za-z0-9.-]{1,253}$")
 SECRET = re.compile(r"^[A-Za-z0-9_=+/-]{10,200}$")
@@ -53,7 +53,7 @@ def parse(page):
 
 def main():
     found, before = {}, None
-    for _ in range(4):
+    for _ in range(6):
         items, ids = parse(fetch(before))
         found.update({i["id"]: i for i in items})
         if len(found) >= LIMIT or not ids:
