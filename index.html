@@ -6,22 +6,22 @@
 <title>پروکسی تلگرام رایگان با نمایش لوکیشن سرور | Free Telegram Proxy by Server Location</title>
 <meta name="description" content="پروکسی MTProto رایگان تلگرام با کشور سرور روی کره‌ی زمین. Free Telegram MTProto proxies with the server country shown on an interactive globe. ۲۰ پروکسی آخر، اتصال با یک کلیک.">
 <meta name="robots" content="index,follow,max-image-preview:large">
-<link rel="canonical" href="https://YOUR-USERNAME.github.io/YOUR-REPO/">
+<link rel="canonical" href="https://sahraieeir.github.io/ProxyPeakSite/">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="fa_IR">
 <meta property="og:locale:alternate" content="en_US">
 <meta property="og:title" content="Proxy Peak | پروکسی تلگرام رایگان با نمایش لوکیشن سرور">
 <meta property="og:description" content="Spin the globe, see where each Telegram proxy lives. کره رو بچرخون و ببین هر پروکسی کجاست.">
-<meta property="og:url" content="https://YOUR-USERNAME.github.io/YOUR-REPO/">
+<meta property="og:url" content="https://sahraieeir.github.io/ProxyPeakSite/">
 <meta name="twitter:card" content="summary">
 <meta name="theme-color" content="#050B1F">
 <link rel="icon" href="logo.png">
 <link rel="apple-touch-icon" href="logo.png">
-<meta property="og:image" content="https://YOUR-USERNAME.github.io/YOUR-REPO/logo.png">
+<meta property="og:image" content="https://sahraieeir.github.io/ProxyPeakSite/logo.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Vazirmatn:wght@400;700;900&display=swap">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Proxy Peak","url":"https://YOUR-USERNAME.github.io/YOUR-REPO/","inLanguage":["fa","en"],"image":"https://YOUR-USERNAME.github.io/YOUR-REPO/logo.png"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Proxy Peak","url":"https://sahraieeir.github.io/ProxyPeakSite/","inLanguage":["fa","en"],"image":"https://sahraieeir.github.io/ProxyPeakSite/logo.png"}</script>
 <style>
 :root{--bg:#050B1F;--ink:#E8EEFF;--mut:#8FA3D9;--card:#0B1636;--line:#1A2A5C;--brand:#3D6BFF;--onb:#fff;--pin:#FFC53D;--sea:#1536C8;--sea2:#3F63FF;--land:#BFD0FF;--ok:#3DD68C}
 *{box-sizing:border-box}
@@ -29,6 +29,7 @@ html{scroll-behavior:smooth;scroll-padding-top:76px;color-scheme:dark}
 body{margin:0;background:radial-gradient(70% 55% at 75% 0%,#1B3FD655,transparent) no-repeat,var(--bg);color:var(--ink);font:400 1rem/1.9 Vazirmatn,Tahoma,system-ui,sans-serif;overflow-x:hidden}
 html[lang=en] body{font-family:"Space Grotesk",Vazirmatn,system-ui,sans-serif;line-height:1.7}
 html[lang=fa] [lang=en],html[lang=en] [lang=fa]{display:none}
+#bg{position:fixed;inset:0;width:100%;height:100%;z-index:-1;pointer-events:none}
 a{color:inherit}
 :focus-visible{outline:3px solid var(--pin);outline-offset:2px}
 .wrap{max-width:1120px;margin:auto;padding:0 20px}
@@ -93,6 +94,7 @@ footer{border-top:1px solid var(--line);padding:26px 0 40px;color:var(--mut);fon
 </style>
 </head>
 <body>
+<canvas id="bg" aria-hidden="true"></canvas>
 <header><div class="wrap">
   <a class="logo" href="#top"><img src="logo.png" width="32" height="32" alt="" onerror="this.style.display='none';this.nextElementSibling.style.display='block'"><svg style="display:none" width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path fill="#FFC53D" d="M12 2a7 7 0 0 0-7 7c0 5 7 13 7 13s7-8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6a2.5 2.5 0 0 1 0 5.5z"/></svg>Proxy Peak</a>
   <div class="hd"><button class="btn alt sm" id="lang" type="button">EN</button><a class="btn sm" href="https://t.me/proxypeak" rel="noopener"><span lang="fa">عضویت در کانال</span><span lang="en">Join channel</span></a></div>
@@ -226,7 +228,35 @@ colors();matchMedia('(prefers-color-scheme:dark)').addEventListener('change',col
 size();addEventListener('resize',size);
 if(q=='en')setLang('en');
 fetch('https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/land-110m.json').then(r=>r.json()).catch(()=>null).then(land).finally(()=>requestAnimationFrame(draw));
-fetch('proxies.json',{cache:'no-cache'}).then(r=>r.json()).then(d=>{items=d.items||[];updIso=d.updated||''}).catch(()=>{}).finally(()=>{mkPins();chips();render();stat()});
+fetch('proxies.json',{cache:'no-cache'}).then(r=>r.json()).then(d=>{items=d.items||[];updIso=d.updated||''}).catch(()=>{}).finally(()=>{mkPins();chips();render();stat();bgInit()});
+/* ---------- floating flags (background) ---------- */
+const bg=$('#bg'),bx=bg.getContext('2d'),B={f:[],mx:-999,my:-999,sv:0,y:scrollY,W:0,H:0,d:1,on:false};
+function bgSize(){B.d=Math.min(devicePixelRatio||1,2);B.W=innerWidth;B.H=innerHeight;bg.width=B.W*B.d;bg.height=B.H*B.d}
+function bgInit(){
+ const hot=[...new Set(items.map(p=>p.cc).filter(c=>C[c]))],rest=Object.keys(C).filter(c=>!hot.includes(c)).sort(()=>Math.random()-.5),
+  n=Math.max(12,Math.min(34,Math.round(B.W*B.H/42000)));
+ B.f=hot.concat(rest).slice(0,n).map(c=>{const z=.3+Math.random()*.7,p=hot.includes(c);
+  return{c,z,p,x:Math.random()*B.W,y:Math.random()*B.H,vx:0,vy:0,sp:0,h:0,a:(Math.random()-.5)*.6,va:(Math.random()-.5)*.004,dx:(Math.random()-.5)*.5*z,dy:(Math.random()-.5)*.4*z-.08,s:(18+28*z)*(p?1.15:1)}});
+ if(!B.on){B.on=true;bgStep()}
+}
+function bgStep(){
+ const{W,H,d,mx,my}=B;bx.setTransform(d,0,0,d,0,0);bx.clearRect(0,0,W,H);bx.textAlign='center';bx.textBaseline='middle';
+ for(const f of B.f){
+  const dx=f.x-mx,dy=f.y-my,r=Math.hypot(dx,dy)||1;
+  if(r<150&&!RM){const k=(1-r/150)*.7;f.vx+=dx/r*k;f.vy+=dy/r*k;f.h=Math.min(1,f.h+.12)}else f.h*=.93;
+  f.vy-=B.sv*.04*f.z;f.vx*=.97;f.vy*=.97;f.sp*=.95;
+  if(!RM){f.x+=f.vx+f.dx;f.y+=f.vy+f.dy;f.a+=f.va+f.sp+f.vx*.01}
+  const m=60;if(f.x<-m)f.x=W+m;if(f.x>W+m)f.x=-m;if(f.y<-m)f.y=H+m;if(f.y>H+m)f.y=-m;
+  bx.save();bx.translate(f.x,f.y);bx.rotate(f.a);bx.globalAlpha=Math.min(.85,.13+.2*f.z+(f.p?.08:0)+.5*f.h);
+  bx.font=`${f.s*(1+.4*f.h)}px "Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji",sans-serif`;bx.fillText(flag(f.c),0,0);bx.restore()}
+ B.sv*=.85;if(!RM)requestAnimationFrame(bgStep)
+}
+addEventListener('pointermove',e=>{B.mx=e.clientX;B.my=e.clientY});
+addEventListener('pointerup',e=>{if(e.pointerType!='mouse')B.mx=B.my=-999});
+document.documentElement.addEventListener('mouseleave',()=>{B.mx=B.my=-999});
+addEventListener('pointerdown',e=>B.f.forEach(f=>{const dx=f.x-e.clientX,dy=f.y-e.clientY,r=Math.hypot(dx,dy)||1;if(r<260){const k=(1-r/260)*7;f.vx+=dx/r*k;f.vy+=dy/r*k;f.sp+=(Math.random()-.5)*.06}}));
+addEventListener('scroll',()=>{B.sv=scrollY-B.y;B.y=scrollY},{passive:true});
+bgSize();addEventListener('resize',()=>{bgSize();B.f.forEach(f=>{f.x=Math.min(f.x,B.W);f.y=Math.min(f.y,B.H)})});
 </script>
 </body>
 </html>
