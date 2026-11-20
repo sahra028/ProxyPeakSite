@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:00:47+00:00",
+ "updated": "2026-11-20T20:40:23+00:00",
  "items": [
   {
    "id": 3473,
@@ -160,6 +160,166 @@
    "server": "gole-man.naaab.lol",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3452,
+   "time": "2026-11-20T06:44:29+00:00",
+   "cc": "DE",
+   "server": "d6gjde6bbk888hh0djjj00lan.ir.meli-n13.info",
+   "port": 8443,
+   "secret": "104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3451,
+   "time": "2026-11-20T06:25:31+00:00",
+   "cc": "DE",
+   "server": "157.90.57.54",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3450,
+   "time": "2026-11-20T06:12:33+00:00",
+   "cc": "DE",
+   "server": "ir.vanitydomain.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "id": 3449,
+   "time": "2026-11-20T06:02:33+00:00",
+   "cc": "US",
+   "server": "mobile.prxtg.top",
+   "port": 443,
+   "secret": "ee8ae40a2aa7554a058f3340b6449e4e666d6f62696c652e70727874672e746f70"
+  },
+  {
+   "id": 3448,
+   "time": "2026-11-20T04:51:35+00:00",
+   "cc": "DE",
+   "server": "xx00777new7fh7hhh7tvuh8uh8iix001m1.ir.ir.ir.meli-n12.info",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3447,
+   "time": "2026-11-20T04:41:30+00:00",
+   "cc": "DE",
+   "server": "termsnal.co.uk",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "id": 3446,
+   "time": "2026-11-20T03:54:30+00:00",
+   "cc": "NL",
+   "server": "190.2.144.63",
+   "port": 443,
+   "secret": "eea3c15217ac9f487f3a9c2a1cab661ebb7777772e676f6f676c652e636f6d"
+  },
+  {
+   "id": 3445,
+   "time": "2026-11-20T03:46:32+00:00",
+   "cc": "DE",
+   "server": "33.mtprotonewrunningproxasia.info",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "id": 3444,
+   "time": "2026-11-20T03:42:35+00:00",
+   "cc": "DE",
+   "server": "rade48.sorrelbay.xyz",
+   "port": 443,
+   "secret": "ee8a22a2efc31d03cfe33e7dc2abb809db617669746f2e7275"
+  },
+  {
+   "id": 3443,
+   "time": "2026-11-20T00:31:31+00:00",
+   "cc": "IR",
+   "server": "good.cipservice.co.uk",
+   "port": 2083,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "id": 3442,
+   "time": "2026-11-19T23:26:32+00:00",
+   "cc": "IR",
+   "server": "212.108.98.104.aprawood.ir",
+   "port": 2020,
+   "secret": "AAAAAAAAAAAAAAAAAAAAAA=="
+  },
+  {
+   "id": 3441,
+   "time": "2026-11-19T22:33:35+00:00",
+   "cc": "DE",
+   "server": "gram.proxynet.tech",
+   "port": 443,
+   "secret": "ee46a30f9e2a6c81ba8466e5055d3d497a64726976652e676f6f676c652e636f6d"
+  },
+  {
+   "id": 3440,
+   "time": "2026-11-19T22:30:37+00:00",
+   "cc": "IR",
+   "server": "nick.ciaude.co.uk",
+   "port": 2096,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "id": 3439,
+   "time": "2026-11-19T22:10:34+00:00",
+   "cc": "DE",
+   "server": "loleri73.saltfern.xyz",
+   "port": 443,
+   "secret": "eeeb412b6cdc3b179f63eefdb41aa6a4fc706574726f766963682e7275"
+  },
+  {
+   "id": 3438,
+   "time": "2026-11-19T21:42:32+00:00",
+   "cc": "US",
+   "server": "pine.heronglade.space",
+   "port": 8443,
+   "secret": "ee4b20619b99880640b45f275c18e20555786170692e6f7a6f6e2e7275"
+  },
+  {
+   "id": 3437,
+   "time": "2026-11-19T21:36:30+00:00",
+   "cc": "US",
+   "server": "gardenkite.heronglade.space",
+   "port": 443,
+   "secret": "ee4b20619b99880640b45f275c18e20555706574726f766963682e7275"
+  },
+  {
+   "id": 3436,
+   "time": "2026-11-19T19:20:36+00:00",
+   "cc": "DE",
+   "server": "91.107.170.251",
+   "port": 8443,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3435,
+   "time": "2026-11-19T17:55:35+00:00",
+   "cc": "US",
+   "server": "solar.heronglade.space",
+   "port": 443,
+   "secret": "ee4b20619b99880640b45f275c18e20555706574726f766963682e7275"
+  },
+  {
+   "id": 3434,
+   "time": "2026-11-19T17:53:32+00:00",
+   "cc": "US",
+   "server": "vivi73.sorrelbay.xyz",
+   "port": 443,
+   "secret": "ee2d41dffff1a709fab3857583bca0c360617669746f2e7275"
+  },
+  {
+   "id": 3433,
+   "time": "2026-11-19T14:53:32+00:00",
+   "cc": "PL",
+   "server": "p.lite64.click",
+   "port": 443,
+   "secret": "ee0d0e1a1ade866235cf8dea2a1e83708e6c69746536342e73697465"
   }
  ]
 }
