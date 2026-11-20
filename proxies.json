@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-20T20:44:55+00:00",
+ "updated": "2026-11-20T21:02:41+00:00",
  "items": [
+  {
+   "id": 3474,
+   "time": "2026-11-20T20:47:31+00:00",
+   "cc": "DE",
+   "server": "panel.hook--tehran.co.uk",
+   "port": 443,
+   "secret": "3RBEYoISSb16xRkTAiDCXQk="
+  },
   {
    "id": 3473,
    "time": "2026-11-20T18:14:31+00:00",
@@ -312,14 +320,6 @@
    "server": "vivi73.sorrelbay.xyz",
    "port": 443,
    "secret": "ee2d41dffff1a709fab3857583bca0c360617669746f2e7275"
-  },
-  {
-   "id": 3433,
-   "time": "2026-11-19T14:53:32+00:00",
-   "cc": "PL",
-   "server": "p.lite64.click",
-   "port": 443,
-   "secret": "ee0d0e1a1ade866235cf8dea2a1e83708e6c69746536342e73697465"
   }
  ]
 }
