@@ -1,0 +1,165 @@
+{
+ "updated": "2026-11-20T20:00:47+00:00",
+ "items": [
+  {
+   "id": 3473,
+   "time": "2026-11-20T18:14:31+00:00",
+   "cc": "DE",
+   "server": "ir-ir.rdenham.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "id": 3472,
+   "time": "2026-11-20T15:49:34+00:00",
+   "cc": "IR",
+   "server": "194.60.228.66",
+   "port": 8880,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "id": 3471,
+   "time": "2026-11-20T14:54:34+00:00",
+   "cc": "FI",
+   "server": "46.62.224.5",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3470,
+   "time": "2026-11-20T14:03:35+00:00",
+   "cc": "US",
+   "server": "rimira82.ashwren.xyz",
+   "port": 443,
+   "secret": "eed9f17e3daed2eba291d36ea30d9aded862726f777365722e79616e6465782e7275"
+  },
+  {
+   "id": 3469,
+   "time": "2026-11-20T13:57:36+00:00",
+   "cc": "PL",
+   "server": "breeze.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c94627265657a652e76656c76657477696e646f772e6363"
+  },
+  {
+   "id": 3468,
+   "time": "2026-11-20T13:57:32+00:00",
+   "cc": "PL",
+   "server": "orchid.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c946f72636869642e76656c76657477696e646f772e6363"
+  },
+  {
+   "id": 3467,
+   "time": "2026-11-20T13:00:33+00:00",
+   "cc": "US",
+   "server": "31.57.185.235",
+   "port": 443,
+   "secret": "dd890938bf53a1dab0a211a217a9260763"
+  },
+  {
+   "id": 3465,
+   "time": "2026-11-20T10:50:36+00:00",
+   "cc": "PL",
+   "server": "orchid.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c946f72636869642e7061706572746561706f742e636f6d"
+  },
+  {
+   "id": 3464,
+   "time": "2026-11-20T10:48:31+00:00",
+   "cc": "PL",
+   "server": "poneny87.sorrelbay.xyz",
+   "port": 8443,
+   "secret": "eed9f17e3daed2eba291d36ea30d9aded8786170692e6f7a6f6e2e7275"
+  },
+  {
+   "id": 3463,
+   "time": "2026-11-20T10:23:35+00:00",
+   "cc": "US",
+   "server": "nemazo76.larchmere.xyz",
+   "port": 443,
+   "secret": "ee44f33295547b09ac13649a4c51c296f6706574726f766963682e7275"
+  },
+  {
+   "id": 3462,
+   "time": "2026-11-20T10:20:33+00:00",
+   "cc": "FI",
+   "server": "65.109.106.132",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "id": 3461,
+   "time": "2026-11-20T09:59:32+00:00",
+   "cc": "RU",
+   "server": "edgespindle.org",
+   "port": 443,
+   "secret": "eebec6acb2a5464709485d7cbeedd8612b686f66662e7275"
+  },
+  {
+   "id": 3460,
+   "time": "2026-11-20T09:44:31+00:00",
+   "cc": "FI",
+   "server": "new.nchnch.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3459,
+   "time": "2026-11-20T09:09:30+00:00",
+   "cc": "DE",
+   "server": "17fh.masi.ir.he6fhd.ru",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3458,
+   "time": "2026-11-20T08:59:30+00:00",
+   "cc": "DE",
+   "server": "92.246.87.130",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "id": 3457,
+   "time": "2026-11-20T08:20:35+00:00",
+   "cc": "DE",
+   "server": "neon.tealbriar.xyz",
+   "port": 8443,
+   "secret": "ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275"
+  },
+  {
+   "id": 3456,
+   "time": "2026-11-20T07:59:33+00:00",
+   "cc": "DE",
+   "server": "jy7nf.ir.meli-n13.info",
+   "port": 8443,
+   "secret": "104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3455,
+   "time": "2026-11-20T07:44:30+00:00",
+   "cc": "IR",
+   "server": "85.133.194.14",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "id": 3454,
+   "time": "2026-11-20T06:59:30+00:00",
+   "cc": "DE",
+   "server": "46.224.8.75",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3453,
+   "time": "2026-11-20T06:46:34+00:00",
+   "cc": "DE",
+   "server": "gole-man.naaab.lol",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  }
+ ]
+}
