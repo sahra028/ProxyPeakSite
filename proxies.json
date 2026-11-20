@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-20T21:37:55+00:00",
+ "updated": "2026-11-20T22:37:00+00:00",
  "items": [
+  {
+   "id": 3476,
+   "time": "2026-11-20T22:02:30+00:00",
+   "cc": "PL",
+   "server": "breeze.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c94627265657a652e7061706572746561706f742e636f6d"
+  },
+  {
+   "id": 3475,
+   "time": "2026-11-20T21:58:32+00:00",
+   "cc": "DE",
+   "server": "gshs7o.ir.ir.ir.meli-n12.info",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
   {
    "id": 3474,
    "time": "2026-11-20T20:47:31+00:00",
@@ -304,22 +320,6 @@
    "server": "91.107.170.251",
    "port": 8443,
    "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3435,
-   "time": "2026-11-19T17:55:35+00:00",
-   "cc": "US",
-   "server": "solar.heronglade.space",
-   "port": 443,
-   "secret": "ee4b20619b99880640b45f275c18e20555706574726f766963682e7275"
-  },
-  {
-   "id": 3434,
-   "time": "2026-11-19T17:53:32+00:00",
-   "cc": "US",
-   "server": "vivi73.sorrelbay.xyz",
-   "port": 443,
-   "secret": "ee2d41dffff1a709fab3857583bca0c360617669746f2e7275"
   }
  ]
 }
