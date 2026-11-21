@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-21T07:40:33+00:00",
+ "updated": "2026-11-21T08:41:04+00:00",
  "items": [
+  {
+   "id": 3488,
+   "time": "2026-11-21T08:13:30+00:00",
+   "cc": "DE",
+   "server": "d1.jadroom.co.uk",
+   "port": 443,
+   "secret": "3RBEYoISSb16xRkTAiDCXQk="
+  },
+  {
+   "id": 3487,
+   "time": "2026-11-21T08:01:35+00:00",
+   "cc": "IR",
+   "server": "85.133.194.41",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "id": 3486,
+   "time": "2026-11-21T07:43:35+00:00",
+   "cc": "IR",
+   "server": "85.133.194.121",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
   {
    "id": 3485,
    "time": "2026-11-21T06:07:41+00:00",
@@ -296,30 +320,6 @@
    "server": "xx00777new7fh7hhh7tvuh8uh8iix001m1.ir.ir.ir.meli-n12.info",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3447,
-   "time": "2026-11-20T04:41:30+00:00",
-   "cc": "DE",
-   "server": "termsnal.co.uk",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3446,
-   "time": "2026-11-20T03:54:30+00:00",
-   "cc": "NL",
-   "server": "190.2.144.63",
-   "port": 443,
-   "secret": "eea3c15217ac9f487f3a9c2a1cab661ebb7777772e676f6f676c652e636f6d"
-  },
-  {
-   "id": 3445,
-   "time": "2026-11-20T03:46:32+00:00",
-   "cc": "DE",
-   "server": "33.mtprotonewrunningproxasia.info",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   }
  ]
 }
