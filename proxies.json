@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-21T08:41:04+00:00",
+ "updated": "2026-11-21T09:39:25+00:00",
  "items": [
+  {
+   "id": 3489,
+   "time": "2026-11-21T08:59:32+00:00",
+   "cc": "DE",
+   "server": "ghalb.naaab.lol",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
   {
    "id": 3488,
    "time": "2026-11-21T08:13:30+00:00",
@@ -312,14 +320,6 @@
    "server": "mobile.prxtg.top",
    "port": 443,
    "secret": "ee8ae40a2aa7554a058f3340b6449e4e666d6f62696c652e70727874672e746f70"
-  },
-  {
-   "id": 3448,
-   "time": "2026-11-20T04:51:35+00:00",
-   "cc": "DE",
-   "server": "xx00777new7fh7hhh7tvuh8uh8iix001m1.ir.ir.ir.meli-n12.info",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   }
  ]
 }
