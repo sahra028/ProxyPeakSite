@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-21T13:49:14+00:00",
+ "updated": "2026-11-21T14:41:13+00:00",
  "items": [
+  {
+   "id": 3496,
+   "time": "2026-11-21T14:23:37+00:00",
+   "cc": "US",
+   "server": "dunelumen.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c9464756e656c756d656e2e7061706572746561706f742e636f6d"
+  },
+  {
+   "id": 3495,
+   "time": "2026-11-21T14:18:34+00:00",
+   "cc": "RU",
+   "server": "cdncove.com",
+   "port": 443,
+   "secret": "eea9bf6807ab1fccfb24817bcb05189bf3686f66662e7275"
+  },
+  {
+   "id": 3494,
+   "time": "2026-11-21T13:58:44+00:00",
+   "cc": "SE",
+   "server": "lelo74.kelpmoor.xyz",
+   "port": 443,
+   "secret": "eee38448c7e07ec8d42dfb2ca4d668b79062726f777365722e79616e6465782e7275"
+  },
   {
    "id": 3493,
    "time": "2026-11-21T13:05:31+00:00",
@@ -296,30 +320,6 @@
    "server": "jy7nf.ir.meli-n13.info",
    "port": 8443,
    "secret": "104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3455,
-   "time": "2026-11-20T07:44:30+00:00",
-   "cc": "IR",
-   "server": "85.133.194.14",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3454,
-   "time": "2026-11-20T06:59:30+00:00",
-   "cc": "DE",
-   "server": "46.224.8.75",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3453,
-   "time": "2026-11-20T06:46:34+00:00",
-   "cc": "DE",
-   "server": "gole-man.naaab.lol",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   }
  ]
 }
