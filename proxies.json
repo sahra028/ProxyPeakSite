@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-21T00:46:17+00:00",
+ "updated": "2026-11-21T02:00:29+00:00",
  "items": [
+  {
+   "id": 3479,
+   "time": "2026-11-21T00:54:31+00:00",
+   "cc": "IR",
+   "server": "server3.Server-space52.info",
+   "port": 443,
+   "secret": "AAAAAAAAAAAAAAAAAAAAAA=="
+  },
+  {
+   "id": 3478,
+   "time": "2026-11-21T00:48:32+00:00",
+   "cc": "DE",
+   "server": "176.65.135.69",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
   {
    "id": 3477,
    "time": "2026-11-21T00:20:31+00:00",
@@ -304,22 +320,6 @@
    "server": "loleri73.saltfern.xyz",
    "port": 443,
    "secret": "eeeb412b6cdc3b179f63eefdb41aa6a4fc706574726f766963682e7275"
-  },
-  {
-   "id": 3438,
-   "time": "2026-11-19T21:42:32+00:00",
-   "cc": "US",
-   "server": "pine.heronglade.space",
-   "port": 8443,
-   "secret": "ee4b20619b99880640b45f275c18e20555786170692e6f7a6f6e2e7275"
-  },
-  {
-   "id": 3437,
-   "time": "2026-11-19T21:36:30+00:00",
-   "cc": "US",
-   "server": "gardenkite.heronglade.space",
-   "port": 443,
-   "secret": "ee4b20619b99880640b45f275c18e20555706574726f766963682e7275"
   }
  ]
 }
