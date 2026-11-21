@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-21T12:41:15+00:00",
+ "updated": "2026-11-21T13:49:14+00:00",
  "items": [
+  {
+   "id": 3493,
+   "time": "2026-11-21T13:05:31+00:00",
+   "cc": "US",
+   "server": "31.57.185.157",
+   "port": 443,
+   "secret": "dd27729feca8dbcd8008c3fa4f12d92793"
+  },
+  {
+   "id": 3492,
+   "time": "2026-11-21T12:50:29+00:00",
+   "cc": "DE",
+   "server": "333.nasakhamia.co.uk",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
   {
    "id": 3491,
    "time": "2026-11-21T10:30:35+00:00",
@@ -302,22 +318,6 @@
    "time": "2026-11-20T06:46:34+00:00",
    "cc": "DE",
    "server": "gole-man.naaab.lol",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3452,
-   "time": "2026-11-20T06:44:29+00:00",
-   "cc": "DE",
-   "server": "d6gjde6bbk888hh0djjj00lan.ir.meli-n13.info",
-   "port": 8443,
-   "secret": "104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3451,
-   "time": "2026-11-20T06:25:31+00:00",
-   "cc": "DE",
-   "server": "157.90.57.54",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
   }
