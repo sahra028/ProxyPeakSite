@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-21T17:33:10+00:00",
+ "updated": "2026-11-21T18:31:16+00:00",
  "items": [
+  {
+   "id": 3503,
+   "time": "2026-11-21T18:27:30+00:00",
+   "cc": "PL",
+   "server": "sso.prxtg.top",
+   "port": 443,
+   "secret": "ee81155f42409fce134de8524006051c6973736f2e70727874672e746f70"
+  },
+  {
+   "id": 3502,
+   "time": "2026-11-21T18:07:31+00:00",
+   "cc": "DE",
+   "server": "sudoaptupdate-y-sudoaptupgrade-y.logmanfi.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
+   "id": 3501,
+   "time": "2026-11-21T17:47:31+00:00",
+   "cc": "DE",
+   "server": "46.225.254.8",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
   {
    "id": 3500,
    "time": "2026-11-21T17:06:36+00:00",
@@ -295,30 +319,6 @@
    "cc": "DE",
    "server": "33.mtprotonewrunningproxasia.info",
    "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3443,
-   "time": "2026-11-20T00:31:31+00:00",
-   "cc": "IR",
-   "server": "good.cipservice.co.uk",
-   "port": 2083,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3442,
-   "time": "2026-11-19T23:26:32+00:00",
-   "cc": "IR",
-   "server": "212.108.98.104.aprawood.ir",
-   "port": 2020,
-   "secret": "AAAAAAAAAAAAAAAAAAAAAA=="
-  },
-  {
-   "id": 3440,
-   "time": "2026-11-19T22:30:37+00:00",
-   "cc": "IR",
-   "server": "nick.ciaude.co.uk",
-   "port": 2096,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   }
  ]
