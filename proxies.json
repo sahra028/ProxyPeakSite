@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-21T22:12:08+00:00",
+ "updated": "2026-11-21T23:07:51+00:00",
  "items": [
+  {
+   "id": 3507,
+   "time": "2026-11-21T22:40:29+00:00",
+   "cc": "DE",
+   "server": "www.bank.com.squadgame.co.uk",
+   "port": 8443,
+   "secret": "dd5f7ce28a2c4816c6c923dfd4d5630e01"
+  },
   {
    "id": 3506,
    "time": "2026-11-21T21:48:36+00:00",
@@ -312,14 +320,6 @@
    "server": "157.90.57.54",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3450,
-   "time": "2026-11-20T06:12:33+00:00",
-   "cc": "DE",
-   "server": "ir.vanitydomain.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
   }
  ]
 }
