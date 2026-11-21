@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-21T09:39:25+00:00",
+ "updated": "2026-11-21T10:38:58+00:00",
  "items": [
+  {
+   "id": 3491,
+   "time": "2026-11-21T10:30:35+00:00",
+   "cc": "SE",
+   "server": "violet.heronglade.space",
+   "port": 8443,
+   "secret": "ee4b20619b99880640b45f275c18e20555786170692e6f7a6f6e2e7275"
+  },
+  {
+   "id": 3490,
+   "time": "2026-11-21T10:25:31+00:00",
+   "cc": "US",
+   "server": "dunelumen.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c9464756e656c756d656e2e76656c76657477696e646f772e6363"
+  },
   {
    "id": 3489,
    "time": "2026-11-21T08:59:32+00:00",
@@ -304,22 +320,6 @@
    "server": "157.90.57.54",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3450,
-   "time": "2026-11-20T06:12:33+00:00",
-   "cc": "DE",
-   "server": "ir.vanitydomain.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "id": 3449,
-   "time": "2026-11-20T06:02:33+00:00",
-   "cc": "US",
-   "server": "mobile.prxtg.top",
-   "port": 443,
-   "secret": "ee8ae40a2aa7554a058f3340b6449e4e666d6f62696c652e70727874672e746f70"
   }
  ]
 }
