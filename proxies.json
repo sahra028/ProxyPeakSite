@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-22T10:13:43+00:00",
+ "updated": "2026-11-22T11:09:45+00:00",
  "items": [
+  {
+   "id": 3528,
+   "time": "2026-11-22T10:47:35+00:00",
+   "cc": "PL",
+   "server": "loga86.sorrelbay.xyz",
+   "port": 8443,
+   "secret": "eee38448c7e07ec8d42dfb2ca4d668b790617669746f2e7275"
+  },
   {
    "id": 3527,
    "time": "2026-11-22T10:12:32+00:00",
@@ -312,14 +320,6 @@
    "server": "opss.anotelinopalk.co.uk",
    "port": 8880,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3481,
-   "time": "2026-11-21T03:06:29+00:00",
-   "cc": "ES",
-   "server": "yastatic.co.uk",
-   "port": 443,
-   "secret": "ee4d529b445ca1cfa716b340ef99877570727a796d68702e79617374617469632e6e6574"
   }
  ]
 }
