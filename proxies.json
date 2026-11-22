@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-22T12:07:13+00:00",
+ "updated": "2026-11-22T13:27:11+00:00",
  "items": [
+  {
+   "id": 3531,
+   "time": "2026-11-22T13:15:30+00:00",
+   "cc": "DE",
+   "server": "winston.naaab.lol",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3530,
+   "time": "2026-11-22T12:13:36+00:00",
+   "cc": "RU",
+   "server": "cdnbarrel.org",
+   "port": 443,
+   "secret": "ee7e417407b715ff26d9fafff34e31a33b686f66662e7275"
+  },
+  {
+   "id": 3529,
+   "time": "2026-11-22T12:10:41+00:00",
+   "cc": "DE",
+   "server": "rr7dhoo88001m1.ir.ir.ir.meli-n12.info",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
   {
    "id": 3528,
    "time": "2026-11-22T10:47:35+00:00",
@@ -295,30 +319,6 @@
    "cc": "IR",
    "server": "85.133.194.41",
    "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3486,
-   "time": "2026-11-21T07:43:35+00:00",
-   "cc": "IR",
-   "server": "85.133.194.121",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3484,
-   "time": "2026-11-21T05:40:33+00:00",
-   "cc": "IR",
-   "server": "94.184.39.6.aprawood.ir",
-   "port": 2020,
-   "secret": "AAAAAAAAAAAAAAAAAAAAAA=="
-  },
-  {
-   "id": 3482,
-   "time": "2026-11-21T03:32:32+00:00",
-   "cc": "DE",
-   "server": "opss.anotelinopalk.co.uk",
-   "port": 8880,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   }
  ]
