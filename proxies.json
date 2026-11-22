@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-22T20:13:02+00:00",
+ "updated": "2026-11-22T21:12:14+00:00",
  "items": [
+  {
+   "id": 3543,
+   "time": "2026-11-22T21:01:30+00:00",
+   "cc": "IR",
+   "server": "new2.lambforkebeb.co.uk",
+   "port": 2096,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
   {
    "id": 3542,
    "time": "2026-11-22T19:21:33+00:00",
@@ -312,14 +320,6 @@
    "server": "l07.ir.ir.ir.meli-n12.info",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3503,
-   "time": "2026-11-21T18:27:30+00:00",
-   "cc": "PL",
-   "server": "sso.prxtg.top",
-   "port": 443,
-   "secret": "ee81155f42409fce134de8524006051c6973736f2e70727874672e746f70"
   }
  ]
 }
