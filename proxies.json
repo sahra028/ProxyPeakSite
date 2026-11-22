@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-22T17:11:12+00:00",
+ "updated": "2026-11-22T18:05:31+00:00",
  "items": [
+  {
+   "id": 3537,
+   "time": "2026-11-22T17:30:36+00:00",
+   "cc": "DE",
+   "server": "nexora.logmanfi.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
   {
    "id": 3536,
    "time": "2026-11-22T14:48:30+00:00",
@@ -312,14 +320,6 @@
    "server": "1.fulle7.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ=="
-  },
-  {
-   "id": 3495,
-   "time": "2026-11-21T14:18:34+00:00",
-   "cc": "RU",
-   "server": "cdncove.com",
-   "port": 443,
-   "secret": "eea9bf6807ab1fccfb24817bcb05189bf3686f66662e7275"
   }
  ]
 }
