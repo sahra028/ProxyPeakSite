@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-22T13:27:11+00:00",
+ "updated": "2026-11-22T14:19:56+00:00",
  "items": [
+  {
+   "id": 3532,
+   "time": "2026-11-22T13:59:30+00:00",
+   "cc": "DE",
+   "server": "46.225.253.114",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
   {
    "id": 3531,
    "time": "2026-11-22T13:15:30+00:00",
@@ -312,14 +320,6 @@
    "server": "d1.jadroom.co.uk",
    "port": 443,
    "secret": "3RBEYoISSb16xRkTAiDCXQk="
-  },
-  {
-   "id": 3487,
-   "time": "2026-11-21T08:01:35+00:00",
-   "cc": "IR",
-   "server": "85.133.194.41",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   }
  ]
 }
