@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-22T00:01:59+00:00",
+ "updated": "2026-11-22T01:42:12+00:00",
  "items": [
+  {
+   "id": 3509,
+   "time": "2026-11-22T01:24:31+00:00",
+   "cc": "IR",
+   "server": "age.nine11.art",
+   "port": 443,
+   "secret": "2a881c60852b7dd618a1910d57861ff6"
+  },
   {
    "id": 3508,
    "time": "2026-11-21T23:14:31+00:00",
@@ -312,14 +320,6 @@
    "server": "gole-man.naaab.lol",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3452,
-   "time": "2026-11-20T06:44:29+00:00",
-   "cc": "DE",
-   "server": "d6gjde6bbk888hh0djjj00lan.ir.meli-n13.info",
-   "port": 8443,
-   "secret": "104462821249bd7ac519130220c25d09"
   }
  ]
 }
