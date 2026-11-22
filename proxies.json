@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-22T01:42:12+00:00",
+ "updated": "2026-11-22T02:44:29+00:00",
  "items": [
+  {
+   "id": 3514,
+   "time": "2026-11-22T02:39:33+00:00",
+   "cc": "IR",
+   "server": "age.nine11.art",
+   "port": 443,
+   "secret": "fb9fe229a2bd3786e268ced74f586c61"
+  },
+  {
+   "id": 3513,
+   "time": "2026-11-22T02:25:37+00:00",
+   "cc": "IR",
+   "server": "age.nine11.art",
+   "port": 443,
+   "secret": "a0a26f6a93d9220e5fdb9856b6842c4d"
+  },
+  {
+   "id": 3512,
+   "time": "2026-11-22T02:22:31+00:00",
+   "cc": "PL",
+   "server": "nema75.kelpmoor.xyz",
+   "port": 443,
+   "secret": "ee3766caef3a1312832d053fae6706c1d86f7a6f6e2e7275"
+  },
+  {
+   "id": 3511,
+   "time": "2026-11-22T02:17:33+00:00",
+   "cc": "FI",
+   "server": "95.217.193.214",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "id": 3510,
+   "time": "2026-11-22T02:11:30+00:00",
+   "cc": "PL",
+   "server": "kami25.ashwren.xyz",
+   "port": 443,
+   "secret": "ee779e9f58a7841578350dfd6d464f4620706574726f766963682e7275"
+  },
   {
    "id": 3509,
    "time": "2026-11-22T01:24:31+00:00",
@@ -279,46 +319,6 @@
    "cc": "FI",
    "server": "new.nchnch.co.uk",
    "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3459,
-   "time": "2026-11-20T09:09:30+00:00",
-   "cc": "DE",
-   "server": "17fh.masi.ir.he6fhd.ru",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3458,
-   "time": "2026-11-20T08:59:30+00:00",
-   "cc": "DE",
-   "server": "92.246.87.130",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "id": 3456,
-   "time": "2026-11-20T07:59:33+00:00",
-   "cc": "DE",
-   "server": "jy7nf.ir.meli-n13.info",
-   "port": 8443,
-   "secret": "104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3455,
-   "time": "2026-11-20T07:44:30+00:00",
-   "cc": "IR",
-   "server": "85.133.194.14",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3453,
-   "time": "2026-11-20T06:46:34+00:00",
-   "cc": "DE",
-   "server": "gole-man.naaab.lol",
-   "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
   }
  ]
