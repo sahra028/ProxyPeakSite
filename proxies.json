@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-22T22:09:46+00:00",
+ "updated": "2026-11-22T23:09:57+00:00",
  "items": [
+  {
+   "id": 3546,
+   "time": "2026-11-22T23:07:30+00:00",
+   "cc": "IR",
+   "server": "new.lambforkebeb.co.uk",
+   "port": 2096,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "id": 3545,
+   "time": "2026-11-22T22:57:31+00:00",
+   "cc": "IR",
+   "server": "silnet.varfootball.co.uk",
+   "port": 2053,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "id": 3544,
+   "time": "2026-11-22T22:38:31+00:00",
+   "cc": "GB",
+   "server": "matrixxx.vip",
+   "port": 443,
+   "secret": "eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970"
+  },
   {
    "id": 3543,
    "time": "2026-11-22T21:01:30+00:00",
@@ -296,30 +320,6 @@
    "server": "www.bank.com.squadgame.co.uk",
    "port": 8443,
    "secret": "dd5f7ce28a2c4816c6c923dfd4d5630e01"
-  },
-  {
-   "id": 3506,
-   "time": "2026-11-21T21:48:36+00:00",
-   "cc": "NL",
-   "server": "91.221.191.138",
-   "port": 443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3505,
-   "time": "2026-11-21T20:18:40+00:00",
-   "cc": "DE",
-   "server": "jhndoes.co.uk",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3504,
-   "time": "2026-11-21T19:06:30+00:00",
-   "cc": "DE",
-   "server": "l07.ir.ir.ir.meli-n12.info",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   }
  ]
 }
