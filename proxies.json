@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-22T08:03:15+00:00",
+ "updated": "2026-11-22T09:12:28+00:00",
  "items": [
+  {
+   "id": 3524,
+   "time": "2026-11-22T09:07:31+00:00",
+   "cc": "DE",
+   "server": "VIP.goooalir.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3523,
+   "time": "2026-11-22T08:57:29+00:00",
+   "cc": "IR",
+   "server": "85.133.194.8",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "id": 3522,
+   "time": "2026-11-22T08:29:31+00:00",
+   "cc": "DE",
+   "server": "dhe9.ir.ir.ir.meli-n12.info",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
   {
    "id": 3521,
    "time": "2026-11-22T06:28:30+00:00",
@@ -296,30 +320,6 @@
    "server": "176.65.135.69",
    "port": 443,
    "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-   "id": 3477,
-   "time": "2026-11-21T00:20:31+00:00",
-   "cc": "DE",
-   "server": "khosh-khande.lolauth.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
-   "id": 3475,
-   "time": "2026-11-20T21:58:32+00:00",
-   "cc": "DE",
-   "server": "gshs7o.ir.ir.ir.meli-n12.info",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3474,
-   "time": "2026-11-20T20:47:31+00:00",
-   "cc": "DE",
-   "server": "panel.hook--tehran.co.uk",
-   "port": 443,
-   "secret": "3RBEYoISSb16xRkTAiDCXQk="
   }
  ]
 }
