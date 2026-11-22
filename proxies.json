@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-22T09:12:28+00:00",
+ "updated": "2026-11-22T10:13:43+00:00",
  "items": [
+  {
+   "id": 3527,
+   "time": "2026-11-22T10:12:32+00:00",
+   "cc": "RU",
+   "server": "teledomen.lol",
+   "port": 443,
+   "secret": "ee47865459ee8e60d17b7374b5c7b53d086d6170792e636f6d"
+  },
+  {
+   "id": 3526,
+   "time": "2026-11-22T10:03:44+00:00",
+   "cc": "RU",
+   "server": "cdncoast.com",
+   "port": 443,
+   "secret": "eea0802366dd565a104bdfb2f9e390c2d4686f66662e7275"
+  },
+  {
+   "id": 3525,
+   "time": "2026-11-22T09:56:32+00:00",
+   "cc": "DE",
+   "server": "iran-cinema-acctor.davooti.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
   {
    "id": 3524,
    "time": "2026-11-22T09:07:31+00:00",
@@ -296,30 +320,6 @@
    "server": "yastatic.co.uk",
    "port": 443,
    "secret": "ee4d529b445ca1cfa716b340ef99877570727a796d68702e79617374617469632e6e6574"
-  },
-  {
-   "id": 3480,
-   "time": "2026-11-21T02:28:37+00:00",
-   "cc": "IR",
-   "server": "age.nine11.art",
-   "port": 443,
-   "secret": "4f3c828aa2cc2e9897c71478a7f9104e"
-  },
-  {
-   "id": 3479,
-   "time": "2026-11-21T00:54:31+00:00",
-   "cc": "IR",
-   "server": "server3.Server-space52.info",
-   "port": 443,
-   "secret": "AAAAAAAAAAAAAAAAAAAAAA=="
-  },
-  {
-   "id": 3478,
-   "time": "2026-11-21T00:48:32+00:00",
-   "cc": "DE",
-   "server": "176.65.135.69",
-   "port": 443,
-   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
   }
  ]
 }
