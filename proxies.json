@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-23T08:23:40+00:00",
+ "updated": "2026-11-23T09:48:34+00:00",
  "items": [
+  {
+   "id": 3564,
+   "time": "2026-11-23T09:30:35+00:00",
+   "cc": "DE",
+   "server": "bastani.mikhay.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+   "id": 3563,
+   "time": "2026-11-23T09:14:30+00:00",
+   "cc": "DE",
+   "server": "91.107.190.68",
+   "port": 8443,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3562,
+   "time": "2026-11-23T08:32:35+00:00",
+   "cc": "DE",
+   "server": "ir.jojeh.info",
+   "port": 999,
+   "secret": "HhPLkuXkVRr2IZaOEfMu2g"
+  },
   {
    "id": 3561,
    "time": "2026-11-23T06:39:31+00:00",
@@ -296,30 +320,6 @@
    "server": "iran-cinema-acctor.davooti.info",
    "port": 8443,
    "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
-   "id": 3524,
-   "time": "2026-11-22T09:07:31+00:00",
-   "cc": "DE",
-   "server": "VIP.goooalir.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3523,
-   "time": "2026-11-22T08:57:29+00:00",
-   "cc": "IR",
-   "server": "85.133.194.8",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3522,
-   "time": "2026-11-22T08:29:31+00:00",
-   "cc": "DE",
-   "server": "dhe9.ir.ir.ir.meli-n12.info",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   }
  ]
 }
