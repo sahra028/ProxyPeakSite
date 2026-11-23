@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-23T09:48:34+00:00",
+ "updated": "2026-11-23T10:56:25+00:00",
  "items": [
+  {
+   "id": 3566,
+   "time": "2026-11-23T10:52:34+00:00",
+   "cc": "PL",
+   "server": "harborwinter.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c94686172626f7277696e7465722e76656c76657477696e646f772e6363"
+  },
+  {
+   "id": 3565,
+   "time": "2026-11-23T10:52:31+00:00",
+   "cc": "SE",
+   "server": "mt-sw.alex-photo-notes.pl",
+   "port": 443,
+   "secret": "eeee677bf5d2356b3744e1208cc35d70887777772e676f6f676c652e636f6d"
+  },
   {
    "id": 3564,
    "time": "2026-11-23T09:30:35+00:00",
@@ -304,22 +320,6 @@
    "server": "teledomen.lol",
    "port": 443,
    "secret": "ee47865459ee8e60d17b7374b5c7b53d086d6170792e636f6d"
-  },
-  {
-   "id": 3526,
-   "time": "2026-11-22T10:03:44+00:00",
-   "cc": "RU",
-   "server": "cdncoast.com",
-   "port": 443,
-   "secret": "eea0802366dd565a104bdfb2f9e390c2d4686f66662e7275"
-  },
-  {
-   "id": 3525,
-   "time": "2026-11-22T09:56:32+00:00",
-   "cc": "DE",
-   "server": "iran-cinema-acctor.davooti.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add"
   }
  ]
 }
