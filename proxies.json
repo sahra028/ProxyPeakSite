@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-23T18:48:44+00:00",
+ "updated": "2026-11-23T19:54:44+00:00",
  "items": [
+  {
+   "id": 3581,
+   "time": "2026-11-23T19:41:34+00:00",
+   "cc": "DE",
+   "server": "pofak.mikhay.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
   {
    "id": 3580,
    "time": "2026-11-23T18:21:30+00:00",
@@ -312,14 +320,6 @@
    "server": "a2.anotelinopalk.co.uk",
    "port": 8880,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3541,
-   "time": "2026-11-22T19:11:48+00:00",
-   "cc": "DE",
-   "server": "77eh.ir.meli-n13.info",
-   "port": 8443,
-   "secret": "104462821249bd7ac519130220c25d09"
   }
  ]
 }
