@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-23T12:57:28+00:00",
+ "updated": "2026-11-23T14:20:53+00:00",
  "items": [
+  {
+   "id": 3569,
+   "time": "2026-11-23T14:16:30+00:00",
+   "cc": "DE",
+   "server": "one.horizon555.co.uk",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "id": 3568,
+   "time": "2026-11-23T14:11:37+00:00",
+   "cc": "IR",
+   "server": "91.234.147.9.aprawood.ir",
+   "port": 2020,
+   "secret": "AAAAAAAAAAAAAAAAAAAAAA=="
+  },
+  {
+   "id": 3567,
+   "time": "2026-11-23T13:26:32+00:00",
+   "cc": "PL",
+   "server": "mile20.sorrelbay.xyz",
+   "port": 8443,
+   "secret": "eee1d528d13649f8288c1ea7898787b486786170692e6f7a6f6e2e7275"
+  },
   {
    "id": 3566,
    "time": "2026-11-23T10:52:34+00:00",
@@ -296,30 +320,6 @@
    "server": "cdnbarrel.org",
    "port": 443,
    "secret": "ee7e417407b715ff26d9fafff34e31a33b686f66662e7275"
-  },
-  {
-   "id": 3529,
-   "time": "2026-11-22T12:10:41+00:00",
-   "cc": "DE",
-   "server": "rr7dhoo88001m1.ir.ir.ir.meli-n12.info",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3528,
-   "time": "2026-11-22T10:47:35+00:00",
-   "cc": "PL",
-   "server": "loga86.sorrelbay.xyz",
-   "port": 8443,
-   "secret": "eee38448c7e07ec8d42dfb2ca4d668b790617669746f2e7275"
-  },
-  {
-   "id": 3527,
-   "time": "2026-11-22T10:12:32+00:00",
-   "cc": "RU",
-   "server": "teledomen.lol",
-   "port": 443,
-   "secret": "ee47865459ee8e60d17b7374b5c7b53d086d6170792e636f6d"
   }
  ]
 }
