@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-23T14:20:53+00:00",
+ "updated": "2026-11-23T15:33:35+00:00",
  "items": [
+  {
+   "id": 3578,
+   "time": "2026-11-23T15:14:31+00:00",
+   "cc": "IR",
+   "server": "85.133.194.109",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "id": 3577,
+   "time": "2026-11-23T14:46:33+00:00",
+   "cc": "DE",
+   "server": "ir-mainland.steveharrop.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "id": 3576,
+   "time": "2026-11-23T14:43:38+00:00",
+   "cc": "US",
+   "server": "bamboo.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c9462616d626f6f2e7061706572746561706f742e636f6d"
+  },
+  {
+   "id": 3575,
+   "time": "2026-11-23T14:43:31+00:00",
+   "cc": "PL",
+   "server": "deny72.ashwren.xyz",
+   "port": 443,
+   "secret": "eea642c4bcbaceb5aa415464da57a03a37706574726f766963682e7275"
+  },
+  {
+   "id": 3574,
+   "time": "2026-11-23T14:41:30+00:00",
+   "cc": "DE",
+   "server": "hapoo.nanaz.co.uk",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+   "id": 3573,
+   "time": "2026-11-23T14:39:33+00:00",
+   "cc": "PL",
+   "server": "bamboo.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c9462616d626f6f2e76656c76657477696e646f772e6363"
+  },
+  {
+   "id": 3572,
+   "time": "2026-11-23T14:35:31+00:00",
+   "cc": "PL",
+   "server": "susu87.sorrelbay.xyz",
+   "port": 8443,
+   "secret": "eea642c4bcbaceb5aa415464da57a03a37617669746f2e7275"
+  },
+  {
+   "id": 3571,
+   "time": "2026-11-23T14:31:31+00:00",
+   "cc": "DE",
+   "server": "man-mamnon-misham-aziz.logmanfi.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
+   "id": 3570,
+   "time": "2026-11-23T14:29:41+00:00",
+   "cc": "GB",
+   "server": "w1.hiesen-proxy.ru",
+   "port": 443,
+   "secret": "ee19f35317df4dff3cab0202fa96ee51de676f6f676c652e636f6d"
+  },
   {
    "id": 3569,
    "time": "2026-11-23T14:16:30+00:00",
@@ -248,78 +320,6 @@
    "server": "51.hide.7y76y.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3538,
-   "time": "2026-11-22T18:10:39+00:00",
-   "cc": "SE",
-   "server": "dune.paperteapot.com",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c9464756e652e7061706572746561706f742e636f6d"
-  },
-  {
-   "id": 3537,
-   "time": "2026-11-22T17:30:36+00:00",
-   "cc": "DE",
-   "server": "nexora.logmanfi.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
-   "id": 3536,
-   "time": "2026-11-22T14:48:30+00:00",
-   "cc": "FI",
-   "server": "server.syscloudio.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3535,
-   "time": "2026-11-22T14:42:33+00:00",
-   "cc": "PL",
-   "server": "delede54.sorrelbay.xyz",
-   "port": 8443,
-   "secret": "eefa048bc9fcc498244c3c7c8b2c2388d5786170692e6f7a6f6e2e7275"
-  },
-  {
-   "id": 3534,
-   "time": "2026-11-22T14:32:32+00:00",
-   "cc": "PL",
-   "server": "light.paperteapot.com",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c946c696768742e7061706572746561706f742e636f6d"
-  },
-  {
-   "id": 3533,
-   "time": "2026-11-22T14:24:33+00:00",
-   "cc": "PL",
-   "server": "light.velvetwindow.cc",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c946c696768742e76656c76657477696e646f772e6363"
-  },
-  {
-   "id": 3532,
-   "time": "2026-11-22T13:59:30+00:00",
-   "cc": "DE",
-   "server": "46.225.253.114",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3531,
-   "time": "2026-11-22T13:15:30+00:00",
-   "cc": "DE",
-   "server": "winston.naaab.lol",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3530,
-   "time": "2026-11-22T12:13:36+00:00",
-   "cc": "RU",
-   "server": "cdnbarrel.org",
-   "port": 443,
-   "secret": "ee7e417407b715ff26d9fafff34e31a33b686f66662e7275"
   }
  ]
 }
