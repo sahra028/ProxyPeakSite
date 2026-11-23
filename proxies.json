@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-23T05:04:20+00:00",
+ "updated": "2026-11-23T06:35:21+00:00",
  "items": [
+  {
+   "id": 3559,
+   "time": "2026-11-23T06:34:33+00:00",
+   "cc": "NL",
+   "server": "chat.appnormoor.com",
+   "port": 443,
+   "secret": "dd27729feca8dbcd8008c3fa4f12d92793"
+  },
+  {
+   "id": 3558,
+   "time": "2026-11-23T06:27:29+00:00",
+   "cc": "PL",
+   "server": "harborwinter.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c94686172626f7277696e7465722e7061706572746561706f742e636f6d"
+  },
+  {
+   "id": 3557,
+   "time": "2026-11-23T06:26:32+00:00",
+   "cc": "DE",
+   "server": "1.hide.7y76y.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3556,
+   "time": "2026-11-23T06:24:35+00:00",
+   "cc": "PL",
+   "server": "summit.tealbriar.xyz",
+   "port": 8443,
+   "secret": "ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275"
+  },
   {
    "id": 3555,
    "time": "2026-11-23T04:42:34+00:00",
@@ -288,38 +320,6 @@
    "server": "ir-ir-ir.grumpyoldmen.info",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "id": 3519,
-   "time": "2026-11-22T06:16:29+00:00",
-   "cc": "NL",
-   "server": "matrixxx.wtf",
-   "port": 443,
-   "secret": "ee9250b2b65b8921d01a306376fc2dd2ca6d617472697878782e777466"
-  },
-  {
-   "id": 3518,
-   "time": "2026-11-22T06:10:35+00:00",
-   "cc": "US",
-   "server": "gadesu10.quillmarsh.xyz",
-   "port": 443,
-   "secret": "ee5ac0b2e9a1fc16db76843c86bb831775706574726f766963682e7275"
-  },
-  {
-   "id": 3517,
-   "time": "2026-11-22T04:34:29+00:00",
-   "cc": "PL",
-   "server": "sun.paperteapot.com",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c9473756e2e7061706572746561706f742e636f6d"
-  },
-  {
-   "id": 3516,
-   "time": "2026-11-22T03:03:31+00:00",
-   "cc": "PL",
-   "server": "live.lovely.lat",
-   "port": 443,
-   "secret": "eeaadd88aa9facd454936d0c42dc128e776c6976652e6c6f76656c792e6c6174"
   }
  ]
 }
