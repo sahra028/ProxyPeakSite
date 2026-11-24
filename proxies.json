@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-24T11:47:48+00:00",
+ "updated": "2026-11-24T12:57:19+00:00",
  "items": [
+  {
+   "id": 3601,
+   "time": "2026-11-24T12:53:33+00:00",
+   "cc": "IR",
+   "server": "iro.varfootball2.co.uk",
+   "port": 2053,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "id": 3600,
+   "time": "2026-11-24T12:50:49+00:00",
+   "cc": "IR",
+   "server": "dpi.Server-space52.info",
+   "port": 443,
+   "secret": "AAAAAAAAAAAAAAAAAAAAAA=="
+  },
+  {
+   "id": 3599,
+   "time": "2026-11-24T12:49:31+00:00",
+   "cc": "IR",
+   "server": "iranmaster27.suser.ir",
+   "port": 2020,
+   "secret": "AAAAAAAAAAAAAAAAAAAAAA=="
+  },
+  {
+   "id": 3598,
+   "time": "2026-11-24T12:00:31+00:00",
+   "cc": "DE",
+   "server": "71.hide.7y76y.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
   {
    "id": 3597,
    "time": "2026-11-24T11:40:34+00:00",
@@ -288,38 +320,6 @@
    "server": "ir.jojeh.info",
    "port": 999,
    "secret": "HhPLkuXkVRr2IZaOEfMu2g"
-  },
-  {
-   "id": 3561,
-   "time": "2026-11-23T06:39:31+00:00",
-   "cc": "DE",
-   "server": "ir-neverland.nowhearthis.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "id": 3560,
-   "time": "2026-11-23T06:37:32+00:00",
-   "cc": "FI",
-   "server": "noon.begir.co.uk",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3559,
-   "time": "2026-11-23T06:34:33+00:00",
-   "cc": "NL",
-   "server": "chat.appnormoor.com",
-   "port": 443,
-   "secret": "dd27729feca8dbcd8008c3fa4f12d92793"
-  },
-  {
-   "id": 3558,
-   "time": "2026-11-23T06:27:29+00:00",
-   "cc": "PL",
-   "server": "harborwinter.paperteapot.com",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c94686172626f7277696e7465722e7061706572746561706f742e636f6d"
   }
  ]
 }
