@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-24T00:47:44+00:00",
+ "updated": "2026-11-24T02:07:14+00:00",
  "items": [
+  {
+   "id": 3586,
+   "time": "2026-11-24T01:15:36+00:00",
+   "cc": "BD",
+   "server": "max.kimt.click",
+   "port": 443,
+   "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
+  },
   {
    "id": 3585,
    "time": "2026-11-23T22:36:29+00:00",
@@ -312,14 +320,6 @@
    "server": "95.216.181.157",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3546,
-   "time": "2026-11-22T23:07:30+00:00",
-   "cc": "IR",
-   "server": "new.lambforkebeb.co.uk",
-   "port": 2096,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   }
  ]
 }
