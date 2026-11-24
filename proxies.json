@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-24T15:29:36+00:00",
+ "updated": "2026-11-24T16:38:30+00:00",
  "items": [
+  {
+   "id": 3606,
+   "time": "2026-11-24T15:39:38+00:00",
+   "cc": "DE",
+   "server": "83.243.86.176",
+   "port": 7443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
   {
    "id": 3605,
    "time": "2026-11-24T15:04:33+00:00",
@@ -312,14 +320,6 @@
    "server": "mile20.sorrelbay.xyz",
    "port": 8443,
    "secret": "eee1d528d13649f8288c1ea7898787b486786170692e6f7a6f6e2e7275"
-  },
-  {
-   "id": 3566,
-   "time": "2026-11-23T10:52:34+00:00",
-   "cc": "PL",
-   "server": "harborwinter.velvetwindow.cc",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c94686172626f7277696e7465722e76656c76657477696e646f772e6363"
   }
  ]
 }
