@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-24T10:48:45+00:00",
+ "updated": "2026-11-24T11:47:48+00:00",
  "items": [
+  {
+   "id": 3597,
+   "time": "2026-11-24T11:40:34+00:00",
+   "cc": "US",
+   "server": "redflag.yazaebalsyadelatproxy.vip",
+   "port": 443,
+   "secret": "eeb8e5365580b9ad3c2ee355dfcbc245e5726564666c61672e79617a616562616c73796164656c617470726f78792e766970"
+  },
+  {
+   "id": 3596,
+   "time": "2026-11-24T11:36:33+00:00",
+   "cc": "US",
+   "server": "levika43.fernlark.xyz",
+   "port": 443,
+   "secret": "eea02849a55daccdc7f7a05691b7ef7cd16c6576696b6134332e6665726e6c61726b2e78797a"
+  },
+  {
+   "id": 3595,
+   "time": "2026-11-24T11:35:33+00:00",
+   "cc": "PL",
+   "server": "nega52.ashwren.xyz",
+   "port": 443,
+   "secret": "eeebf9726b89cc8ca940357d833f491a04786170692e6f7a6f6e2e7275"
+  },
+  {
+   "id": 3594,
+   "time": "2026-11-24T11:25:37+00:00",
+   "cc": "PL",
+   "server": "as.mkim.click",
+   "port": 443,
+   "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
+  },
   {
    "id": 3593,
    "time": "2026-11-24T10:15:32+00:00",
@@ -288,38 +320,6 @@
    "server": "harborwinter.paperteapot.com",
    "port": 443,
    "secret": "eed09fb30e9ba945e3eb272875413c8c94686172626f7277696e7465722e7061706572746561706f742e636f6d"
-  },
-  {
-   "id": 3557,
-   "time": "2026-11-23T06:26:32+00:00",
-   "cc": "DE",
-   "server": "1.hide.7y76y.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3556,
-   "time": "2026-11-23T06:24:35+00:00",
-   "cc": "PL",
-   "server": "summit.tealbriar.xyz",
-   "port": 8443,
-   "secret": "ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275"
-  },
-  {
-   "id": 3555,
-   "time": "2026-11-23T04:42:34+00:00",
-   "cc": "DE",
-   "server": "91.hide.7y76y.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3554,
-   "time": "2026-11-23T04:40:33+00:00",
-   "cc": "DE",
-   "server": "61.hide.7y76y.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   }
  ]
 }
