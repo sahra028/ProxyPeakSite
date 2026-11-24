@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-24T17:45:06+00:00",
+ "updated": "2026-11-24T18:47:15+00:00",
  "items": [
+  {
+   "id": 3609,
+   "time": "2026-11-24T18:10:30+00:00",
+   "cc": "DE",
+   "server": "wbs.regmail.org",
+   "port": 443,
+   "secret": "ee5610dcb9c93a1c5dd38d965b0462ad2c7762732e7265676d61696c2e6f7267"
+  },
   {
    "id": 3608,
    "time": "2026-11-24T16:57:33+00:00",
@@ -312,14 +320,6 @@
    "server": "w1.hiesen-proxy.ru",
    "port": 443,
    "secret": "ee19f35317df4dff3cab0202fa96ee51de676f6f676c652e636f6d"
-  },
-  {
-   "id": 3569,
-   "time": "2026-11-23T14:16:30+00:00",
-   "cc": "DE",
-   "server": "one.horizon555.co.uk",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   }
  ]
 }
