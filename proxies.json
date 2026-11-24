@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-24T18:47:15+00:00",
+ "updated": "2026-11-24T19:54:17+00:00",
  "items": [
+  {
+   "id": 3610,
+   "time": "2026-11-24T19:13:32+00:00",
+   "cc": "IR",
+   "server": "char.ionox.co.uk",
+   "port": 8880,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
   {
    "id": 3609,
    "time": "2026-11-24T18:10:30+00:00",
@@ -312,14 +320,6 @@
    "server": "man-mamnon-misham-aziz.logmanfi.info",
    "port": 8443,
    "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
-   "id": 3570,
-   "time": "2026-11-23T14:29:41+00:00",
-   "cc": "GB",
-   "server": "w1.hiesen-proxy.ru",
-   "port": 443,
-   "secret": "ee19f35317df4dff3cab0202fa96ee51de676f6f676c652e636f6d"
   }
  ]
 }
