@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-24T12:57:19+00:00",
+ "updated": "2026-11-24T14:16:32+00:00",
  "items": [
+  {
+   "id": 3603,
+   "time": "2026-11-24T14:14:30+00:00",
+   "cc": "DE",
+   "server": "zzzzzzz.davooti.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
+   "id": 3602,
+   "time": "2026-11-24T13:37:32+00:00",
+   "cc": "IR",
+   "server": "yek.ionox.co.uk",
+   "port": 8880,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
   {
    "id": 3601,
    "time": "2026-11-24T12:53:33+00:00",
@@ -304,22 +320,6 @@
    "server": "bastani.mikhay.co.uk",
    "port": 8443,
    "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3563,
-   "time": "2026-11-23T09:14:30+00:00",
-   "cc": "DE",
-   "server": "91.107.190.68",
-   "port": 8443,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3562,
-   "time": "2026-11-23T08:32:35+00:00",
-   "cc": "DE",
-   "server": "ir.jojeh.info",
-   "port": 999,
-   "secret": "HhPLkuXkVRr2IZaOEfMu2g"
   }
  ]
 }
