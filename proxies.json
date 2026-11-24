@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-24T16:38:30+00:00",
+ "updated": "2026-11-24T17:45:06+00:00",
  "items": [
+  {
+   "id": 3608,
+   "time": "2026-11-24T16:57:33+00:00",
+   "cc": "IR",
+   "server": "91.234.147.35",
+   "port": 2020,
+   "secret": "00000000000000000000000000000000"
+  },
+  {
+   "id": 3607,
+   "time": "2026-11-24T16:42:34+00:00",
+   "cc": "DE",
+   "server": "royaclinic.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
   {
    "id": 3606,
    "time": "2026-11-24T15:39:38+00:00",
@@ -304,22 +320,6 @@
    "server": "one.horizon555.co.uk",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3568,
-   "time": "2026-11-23T14:11:37+00:00",
-   "cc": "IR",
-   "server": "91.234.147.9.aprawood.ir",
-   "port": 2020,
-   "secret": "AAAAAAAAAAAAAAAAAAAAAA=="
-  },
-  {
-   "id": 3567,
-   "time": "2026-11-23T13:26:32+00:00",
-   "cc": "PL",
-   "server": "mile20.sorrelbay.xyz",
-   "port": 8443,
-   "secret": "eee1d528d13649f8288c1ea7898787b486786170692e6f7a6f6e2e7275"
   }
  ]
 }
