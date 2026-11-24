@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-24T03:20:00+00:00",
+ "updated": "2026-11-24T04:30:30+00:00",
  "items": [
+  {
+   "id": 3591,
+   "time": "2026-11-24T04:24:31+00:00",
+   "cc": "DE",
+   "server": "worldmaster.varomax.co.uk",
+   "port": 5500,
+   "secret": "eeRigzNJvXrFGRMCIMJdEA"
+  },
   {
    "id": 3590,
    "time": "2026-11-24T03:00:32+00:00",
@@ -312,14 +320,6 @@
    "server": "0djd.ir.meli-n13.info",
    "port": 8443,
    "secret": "104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3551,
-   "time": "2026-11-23T02:30:31+00:00",
-   "cc": "NL",
-   "server": "ams2.tlgfast.com",
-   "port": 443,
-   "secret": "ee2a4905e52c0b5fa1b009ec835de0e9b6616d73322e746c67666173742e636f6d"
   }
  ]
 }
