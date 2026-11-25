@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-25T10:56:01+00:00",
+ "updated": "2026-11-25T11:52:25+00:00",
  "items": [
+  {
+   "id": 3712,
+   "time": "2026-11-25T11:28:30+00:00",
+   "cc": "IR",
+   "server": "winter.lavazem2.co.uk",
+   "port": 2053,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3711,
+   "time": "2026-11-25T11:19:31+00:00",
+   "cc": "DE",
+   "server": "91.107.150.42",
+   "port": 8443,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3710,
+   "time": "2026-11-25T11:10:31+00:00",
+   "cc": "IR",
+   "server": "shsh.anotelinopalk.co.uk",
+   "port": 8880,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3709,
+   "time": "2026-11-25T10:59:33+00:00",
+   "cc": "IR",
+   "server": "char.ionox.co.uk",
+   "port": 8880,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
   {
    "id": 3708,
    "time": "2026-11-25T10:38:30+00:00",
@@ -288,38 +320,6 @@
    "server": "org.mediaad.co.uk",
    "port": 8880,
    "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3672,
-   "time": "2026-11-25T03:20:29+00:00",
-   "cc": "IR",
-   "server": "s2.server-space52.info",
-   "port": 2020,
-   "secret": "00000000000000000000000000000000"
-  },
-  {
-   "id": 3671,
-   "time": "2026-11-25T03:13:35+00:00",
-   "cc": "FI",
-   "server": "you.nasakhamia.co.uk",
-   "port": 8443,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3670,
-   "time": "2026-11-25T03:10:32+00:00",
-   "cc": "US",
-   "server": "quill.paperteapot.com",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c947175696c6c2e7061706572746561706f742e636f6d"
-  },
-  {
-   "id": 3669,
-   "time": "2026-11-25T03:06:40+00:00",
-   "cc": "US",
-   "server": "aurora.velvetoak.work",
-   "port": 443,
-   "secret": "eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465"
   }
  ]
 }
