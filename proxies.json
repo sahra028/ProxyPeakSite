@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-25T05:51:23+00:00",
+ "updated": "2026-11-25T06:59:09+00:00",
  "items": [
+  {
+   "id": 3688,
+   "time": "2026-11-25T06:36:29+00:00",
+   "cc": "NL",
+   "server": "ir-immortals.sponsorafuture.co.uk",
+   "port": 443,
+   "secret": "EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+   "id": 3687,
+   "time": "2026-11-25T06:29:38+00:00",
+   "cc": "US",
+   "server": "gaga93.copperwren.click",
+   "port": 8443,
+   "secret": "eeb5b747703e5e5ce6bf2c234105f89c7964726976652e676f6f676c652e636f6d"
+  },
+  {
+   "id": 3686,
+   "time": "2026-11-25T06:26:33+00:00",
+   "cc": "IR",
+   "server": "name.golgoli2.co.uk",
+   "port": 2096,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3685,
+   "time": "2026-11-25T06:19:34+00:00",
+   "cc": "US",
+   "server": "garazo91.birchquay.xyz",
+   "port": 8443,
+   "secret": "ee603576a34f4df9f5a5668a3c1723de5964726976652e676f6f676c652e636f6d"
+  },
+  {
+   "id": 3684,
+   "time": "2026-11-25T06:13:31+00:00",
+   "cc": "PL",
+   "server": "mint.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c946d696e742e7061706572746561706f742e636f6d"
+  },
+  {
+   "id": 3683,
+   "time": "2026-11-25T06:12:30+00:00",
+   "cc": "PL",
+   "server": "opal.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c946f70616c2e7061706572746561706f742e636f6d"
+  },
   {
    "id": 3682,
    "time": "2026-11-25T05:50:36+00:00",
@@ -272,54 +320,6 @@
    "server": "194.60.228.4",
    "port": 2096,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3648,
-   "time": "2026-11-24T23:40:33+00:00",
-   "cc": "DE",
-   "server": "exiscos.co.uk",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3647,
-   "time": "2026-11-24T23:39:31+00:00",
-   "cc": "DE",
-   "server": "76dettvasl65a11kpi912713.ir.ir.ir.meli-n12.info",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3646,
-   "time": "2026-11-24T23:26:32+00:00",
-   "cc": "DE",
-   "server": "41.hide.7y76y.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3645,
-   "time": "2026-11-24T23:25:36+00:00",
-   "cc": "IR",
-   "server": "char.anotelinopalk.co.uk",
-   "port": 8880,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3644,
-   "time": "2026-11-24T23:23:37+00:00",
-   "cc": "IR",
-   "server": "do.torob.ir.solzairanbad.ir",
-   "port": 8880,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3643,
-   "time": "2026-11-24T23:16:35+00:00",
-   "cc": "DE",
-   "server": "ir-ir-ir.grumpyoldmen.info",
-   "port": 8443,
-   "secret": "104462821249bd7ac519130220c8dd09"
   }
  ]
 }
