@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-25T22:44:59+00:00",
+ "updated": "2026-11-25T23:41:21+00:00",
  "items": [
+  {
+   "id": 3768,
+   "time": "2026-11-25T22:50:32+00:00",
+   "cc": "DE",
+   "server": "love.ir.meli-n13.info",
+   "port": 8443,
+   "secret": "104462821249bd7ac519130220c25d09"
+  },
   {
    "id": 3767,
    "time": "2026-11-25T22:37:29+00:00",
@@ -312,14 +320,6 @@
    "server": "5.222.26.27",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3728,
-   "time": "2026-11-25T14:39:33+00:00",
-   "cc": "IR",
-   "server": "loud-teal.godserver52.info",
-   "port": 443,
-   "secret": "AAAAAAAAAAAAAAAAAAAAAA=="
   }
  ]
 }
