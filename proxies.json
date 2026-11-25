@@ -1,6 +1,70 @@
 {
- "updated": "2026-11-25T08:32:28+00:00",
+ "updated": "2026-11-25T09:59:09+00:00",
  "items": [
+  {
+   "id": 3700,
+   "time": "2026-11-25T09:56:40+00:00",
+   "cc": "IR",
+   "server": "haf.ionox.co.uk",
+   "port": 8880,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3699,
+   "time": "2026-11-25T09:56:31+00:00",
+   "cc": "DE",
+   "server": "ir-ir.mhanna.info",
+   "port": 3443,
+   "secret": "104462821249bd7ac519130220c8dd09"
+  },
+  {
+   "id": 3698,
+   "time": "2026-11-25T09:33:38+00:00",
+   "cc": "PL",
+   "server": "lenyma85.ashwren.xyz",
+   "port": 8443,
+   "secret": "ee26b9ec16854635afb251cb286cd726186f7a6f6e2e7275"
+  },
+  {
+   "id": 3697,
+   "time": "2026-11-25T09:28:43+00:00",
+   "cc": "PL",
+   "server": "reed.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c94726565642e7061706572746561706f742e636f6d"
+  },
+  {
+   "id": 3696,
+   "time": "2026-11-25T09:26:37+00:00",
+   "cc": "FI",
+   "server": "naznazi.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3695,
+   "time": "2026-11-25T09:24:30+00:00",
+   "cc": "IR",
+   "server": "dpi.esantion.info",
+   "port": 443,
+   "secret": "00000000000000000000000000000000"
+  },
+  {
+   "id": 3694,
+   "time": "2026-11-25T09:23:39+00:00",
+   "cc": "IR",
+   "server": "hasht.ionox.co.uk",
+   "port": 8880,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3693,
+   "time": "2026-11-25T08:56:38+00:00",
+   "cc": "FI",
+   "server": "65.108.123.76",
+   "port": 443,
+   "secret": "dd79e7010200010007f0030386e24c3add"
+  },
   {
    "id": 3692,
    "time": "2026-11-25T08:24:30+00:00",
@@ -256,70 +320,6 @@
    "server": "65.109.214.109",
    "port": 8443,
    "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3660,
-   "time": "2026-11-25T02:11:34+00:00",
-   "cc": "US",
-   "server": "dele89.quillmarsh.xyz",
-   "port": 8443,
-   "secret": "ee704c9352bad79b00f1e067772277715664726976652e676f6f676c652e636f6d"
-  },
-  {
-   "id": 3659,
-   "time": "2026-11-25T02:04:31+00:00",
-   "cc": "IR",
-   "server": "server83.server-space52.info",
-   "port": 2020,
-   "secret": "00000000000000000000000000000000"
-  },
-  {
-   "id": 3658,
-   "time": "2026-11-25T02:01:37+00:00",
-   "cc": "IR",
-   "server": "se.torob.ir.solzairanbad.ir",
-   "port": 8880,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3657,
-   "time": "2026-11-25T01:52:30+00:00",
-   "cc": "IR",
-   "server": "do.ionox.co.uk",
-   "port": 8880,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3656,
-   "time": "2026-11-25T01:39:32+00:00",
-   "cc": "DE",
-   "server": "ir-ir.rebol.info",
-   "port": 8443,
-   "secret": "104462821249bd7ac519130220c8dd09"
-  },
-  {
-   "id": 3655,
-   "time": "2026-11-25T01:21:36+00:00",
-   "cc": "DE",
-   "server": "dark2.qavi-13.co.uk",
-   "port": 1550,
-   "secret": "6ec11c2dc77e737d7572fd4714c9037c"
-  },
-  {
-   "id": 3654,
-   "time": "2026-11-25T01:14:37+00:00",
-   "cc": "FI",
-   "server": "name.namenewok.info",
-   "port": 8443,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3653,
-   "time": "2026-11-25T00:58:31+00:00",
-   "cc": "DE",
-   "server": "ahvaz.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   }
  ]
 }
