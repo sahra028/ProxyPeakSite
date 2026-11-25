@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-25T13:00:37+00:00",
+ "updated": "2026-11-25T14:38:56+00:00",
  "items": [
+  {
+   "id": 3727,
+   "time": "2026-11-25T14:31:30+00:00",
+   "cc": "DE",
+   "server": "dns.speed-benz.co.uk",
+   "port": 8443,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3726,
+   "time": "2026-11-25T14:29:31+00:00",
+   "cc": "DE",
+   "server": "188.40.68.147",
+   "port": 8443,
+   "secret": "104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3725,
+   "time": "2026-11-25T14:20:37+00:00",
+   "cc": "IL",
+   "server": "derile40.mossharbor.xyz",
+   "port": 8443,
+   "secret": "ee34fc0a2b54d93b1e88de37d5a16a6d31706574726f766963682e7275"
+  },
+  {
+   "id": 3724,
+   "time": "2026-11-25T14:17:41+00:00",
+   "cc": "IL",
+   "server": "opal.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c946f70616c2e76656c76657477696e646f772e6363"
+  },
+  {
+   "id": 3723,
+   "time": "2026-11-25T14:14:31+00:00",
+   "cc": "IL",
+   "server": "forest.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c94666f726573742e76656c76657477696e646f772e6363"
+  },
+  {
+   "id": 3722,
+   "time": "2026-11-25T14:12:38+00:00",
+   "cc": "IR",
+   "server": "haf.anotelinopalk.co.uk",
+   "port": 8880,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3721,
+   "time": "2026-11-25T14:12:31+00:00",
+   "cc": "IR",
+   "server": "haf.torob.ir.solzairanbad.ir",
+   "port": 8880,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3720,
+   "time": "2026-11-25T14:06:37+00:00",
+   "cc": "DE",
+   "server": "dark1.qavi-13.co.uk",
+   "port": 1550,
+   "secret": "cc4b1c883a3b456d402c73a5c23a42e3"
+  },
+  {
+   "id": 3719,
+   "time": "2026-11-25T13:31:33+00:00",
+   "cc": "DE",
+   "server": "kaktos.mrdatac.ir",
+   "port": 5500,
+   "secret": "e8742282124f08d358551341ead76402"
+  },
+  {
+   "id": 3718,
+   "time": "2026-11-25T13:29:41+00:00",
+   "cc": "IR",
+   "server": "pnj.ionox.co.uk",
+   "port": 8880,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
   {
    "id": 3717,
    "time": "2026-11-25T12:46:42+00:00",
@@ -240,86 +320,6 @@
    "server": "ir-immortals.sponsorafuture.co.uk",
    "port": 443,
    "secret": "EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-   "id": 3687,
-   "time": "2026-11-25T06:29:38+00:00",
-   "cc": "US",
-   "server": "gaga93.copperwren.click",
-   "port": 8443,
-   "secret": "eeb5b747703e5e5ce6bf2c234105f89c7964726976652e676f6f676c652e636f6d"
-  },
-  {
-   "id": 3686,
-   "time": "2026-11-25T06:26:33+00:00",
-   "cc": "IR",
-   "server": "name.golgoli2.co.uk",
-   "port": 2096,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3685,
-   "time": "2026-11-25T06:19:34+00:00",
-   "cc": "US",
-   "server": "garazo91.birchquay.xyz",
-   "port": 8443,
-   "secret": "ee603576a34f4df9f5a5668a3c1723de5964726976652e676f6f676c652e636f6d"
-  },
-  {
-   "id": 3684,
-   "time": "2026-11-25T06:13:31+00:00",
-   "cc": "PL",
-   "server": "mint.paperteapot.com",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c946d696e742e7061706572746561706f742e636f6d"
-  },
-  {
-   "id": 3683,
-   "time": "2026-11-25T06:12:30+00:00",
-   "cc": "PL",
-   "server": "opal.paperteapot.com",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c946f70616c2e7061706572746561706f742e636f6d"
-  },
-  {
-   "id": 3682,
-   "time": "2026-11-25T05:50:36+00:00",
-   "cc": "DE",
-   "server": "91.107.170.11",
-   "port": 8443,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3681,
-   "time": "2026-11-25T05:09:38+00:00",
-   "cc": "DE",
-   "server": "caspian-sea.ir.bcsadwtgd.info",
-   "port": 7443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3680,
-   "time": "2026-11-25T04:36:33+00:00",
-   "cc": "US",
-   "server": "ruby.paperteapot.com",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c94727562792e7061706572746561706f742e636f6d"
-  },
-  {
-   "id": 3679,
-   "time": "2026-11-25T04:35:30+00:00",
-   "cc": "US",
-   "server": "tolega24.tidalbirch.sbs",
-   "port": 8443,
-   "secret": "ee38f8e53c0cf60d4bf9b30013c901cbb164726976652e676f6f676c652e636f6d"
-  },
-  {
-   "id": 3678,
-   "time": "2026-11-25T03:57:29+00:00",
-   "cc": "IR",
-   "server": "shish.ionox.co.uk",
-   "port": 8880,
-   "secret": "79e344818749bd7ac519130220c25d09"
   }
  ]
 }
