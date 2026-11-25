@@ -1,6 +1,62 @@
 {
- "updated": "2026-11-25T03:28:27+00:00",
+ "updated": "2026-11-25T04:39:14+00:00",
  "items": [
+  {
+   "id": 3680,
+   "time": "2026-11-25T04:36:33+00:00",
+   "cc": "US",
+   "server": "ruby.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c94727562792e7061706572746561706f742e636f6d"
+  },
+  {
+   "id": 3679,
+   "time": "2026-11-25T04:35:30+00:00",
+   "cc": "US",
+   "server": "tolega24.tidalbirch.sbs",
+   "port": 8443,
+   "secret": "ee38f8e53c0cf60d4bf9b30013c901cbb164726976652e676f6f676c652e636f6d"
+  },
+  {
+   "id": 3678,
+   "time": "2026-11-25T03:57:29+00:00",
+   "cc": "IR",
+   "server": "shish.ionox.co.uk",
+   "port": 8880,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3677,
+   "time": "2026-11-25T03:56:33+00:00",
+   "cc": "IR",
+   "server": "noh.ionox.co.uk",
+   "port": 8880,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3676,
+   "time": "2026-11-25T03:31:30+00:00",
+   "cc": "US",
+   "server": "olivesail.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c946f6c6976657361696c2e7061706572746561706f742e636f6d"
+  },
+  {
+   "id": 3675,
+   "time": "2026-11-25T03:30:31+00:00",
+   "cc": "DE",
+   "server": "a2.anotelinopalk.co.uk",
+   "port": 8880,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3674,
+   "time": "2026-11-25T03:28:30+00:00",
+   "cc": "IR",
+   "server": "87.248.144.253",
+   "port": 2096,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
   {
    "id": 3673,
    "time": "2026-11-25T03:26:34+00:00",
@@ -264,62 +320,6 @@
    "server": "exiscos.co.uk",
    "port": 8443,
    "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3640,
-   "time": "2026-11-24T22:21:33+00:00",
-   "cc": "PL",
-   "server": "vinyga35.quillmarsh.xyz",
-   "port": 8443,
-   "secret": "ee66209693c31923590235bff3baec4bc164726976652e676f6f676c652e636f6d"
-  },
-  {
-   "id": 3639,
-   "time": "2026-11-24T22:20:33+00:00",
-   "cc": "PL",
-   "server": "marble.paperteapot.com",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c946d6172626c652e7061706572746561706f742e636f6d"
-  },
-  {
-   "id": 3638,
-   "time": "2026-11-24T22:19:40+00:00",
-   "cc": "PL",
-   "server": "zone88.sorrelbay.xyz",
-   "port": 8443,
-   "secret": "ee0a717e9ba394eff63a9943ff11493cc2706574726f766963682e7275"
-  },
-  {
-   "id": 3637,
-   "time": "2026-11-24T22:17:40+00:00",
-   "cc": "PL",
-   "server": "fly.telehelp.top",
-   "port": 443,
-   "secret": "eefdba527c555376b5c1b0f7923eb9418664726976652e676f6f676c652e636f6d"
-  },
-  {
-   "id": 3636,
-   "time": "2026-11-24T22:14:32+00:00",
-   "cc": "PL",
-   "server": "violet.ashwren.xyz",
-   "port": 443,
-   "secret": "ee6fcf868535df2309ee2f6ea5a6563ef962726f777365722e79616e6465782e7275"
-  },
-  {
-   "id": 3635,
-   "time": "2026-11-24T22:13:32+00:00",
-   "cc": "PL",
-   "server": "mint.velvetwindow.cc",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c946d696e742e76656c76657477696e646f772e6363"
-  },
-  {
-   "id": 3634,
-   "time": "2026-11-24T22:12:35+00:00",
-   "cc": "NL",
-   "server": "193.33.153.127",
-   "port": 443,
-   "secret": "eea339ca5cc76d3f7946a1356a63f0947d6d2e6265626f6f2e7275"
   }
  ]
 }
