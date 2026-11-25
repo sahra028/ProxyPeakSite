@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-25T16:56:06+00:00",
+ "updated": "2026-11-25T17:44:30+00:00",
  "items": [
+  {
+   "id": 3739,
+   "time": "2026-11-25T17:41:35+00:00",
+   "cc": "IR",
+   "server": "87.248.144.249",
+   "port": 2096,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3738,
+   "time": "2026-11-25T17:32:48+00:00",
+   "cc": "IR",
+   "server": "noh.torob.ir.solzairanbad.ir",
+   "port": 8880,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3737,
+   "time": "2026-11-25T17:10:32+00:00",
+   "cc": "DE",
+   "server": "91.107.160.196",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "id": 3736,
+   "time": "2026-11-25T17:00:30+00:00",
+   "cc": "FI",
+   "server": "white.graduat.co.uk",
+   "port": 8443,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
   {
    "id": 3735,
    "time": "2026-11-25T16:02:29+00:00",
@@ -288,38 +320,6 @@
    "server": "haf.ionox.co.uk",
    "port": 8880,
    "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3699,
-   "time": "2026-11-25T09:56:31+00:00",
-   "cc": "DE",
-   "server": "ir-ir.mhanna.info",
-   "port": 3443,
-   "secret": "104462821249bd7ac519130220c8dd09"
-  },
-  {
-   "id": 3698,
-   "time": "2026-11-25T09:33:38+00:00",
-   "cc": "PL",
-   "server": "lenyma85.ashwren.xyz",
-   "port": 8443,
-   "secret": "ee26b9ec16854635afb251cb286cd726186f7a6f6e2e7275"
-  },
-  {
-   "id": 3697,
-   "time": "2026-11-25T09:28:43+00:00",
-   "cc": "PL",
-   "server": "reed.paperteapot.com",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c94726565642e7061706572746561706f742e636f6d"
-  },
-  {
-   "id": 3696,
-   "time": "2026-11-25T09:26:37+00:00",
-   "cc": "FI",
-   "server": "naznazi.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   }
  ]
 }
