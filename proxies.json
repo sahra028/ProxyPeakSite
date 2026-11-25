@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-25T21:48:20+00:00",
+ "updated": "2026-11-25T22:44:59+00:00",
  "items": [
+  {
+   "id": 3767,
+   "time": "2026-11-25T22:37:29+00:00",
+   "cc": "IR",
+   "server": "85.133.200.11",
+   "port": 8880,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3766,
+   "time": "2026-11-25T22:36:29+00:00",
+   "cc": "NL",
+   "server": "212.118.53.195",
+   "port": 443,
+   "secret": "dd4482437e89f9af8929514eee7faaf61f"
+  },
+  {
+   "id": 3765,
+   "time": "2026-11-25T22:33:39+00:00",
+   "cc": "IR",
+   "server": "87.248.144.157",
+   "port": 8880,
+   "secret": "dd1603010200010001fc030386e24c3add"
+  },
+  {
+   "id": 3764,
+   "time": "2026-11-25T22:31:33+00:00",
+   "cc": "DE",
+   "server": "ving.mozitop.co.uk",
+   "port": 8443,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3763,
+   "time": "2026-11-25T22:29:30+00:00",
+   "cc": "IR",
+   "server": "87.248.144.152",
+   "port": 8880,
+   "secret": "dd1603010200010001fc030386e24c3add"
+  },
+  {
+   "id": 3762,
+   "time": "2026-11-25T22:20:35+00:00",
+   "cc": "IL",
+   "server": "maple.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c946d61706c652e76656c76657477696e646f772e6363"
+  },
+  {
+   "id": 3761,
+   "time": "2026-11-25T21:55:36+00:00",
+   "cc": "FI",
+   "server": "171.ir.fulle7.info",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+   "id": 3760,
+   "time": "2026-11-25T21:55:31+00:00",
+   "cc": "DE",
+   "server": "138.201.223.97",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3759,
+   "time": "2026-11-25T21:48:36+00:00",
+   "cc": "IR",
+   "server": "dah.ionox.co.uk",
+   "port": 8880,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
   {
    "id": 3758,
    "time": "2026-11-25T21:38:36+00:00",
@@ -248,78 +320,6 @@
    "server": "loud-teal.godserver52.info",
    "port": 443,
    "secret": "AAAAAAAAAAAAAAAAAAAAAA=="
-  },
-  {
-   "id": 3727,
-   "time": "2026-11-25T14:31:30+00:00",
-   "cc": "DE",
-   "server": "dns.speed-benz.co.uk",
-   "port": 8443,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3726,
-   "time": "2026-11-25T14:29:31+00:00",
-   "cc": "DE",
-   "server": "188.40.68.147",
-   "port": 8443,
-   "secret": "104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3725,
-   "time": "2026-11-25T14:20:37+00:00",
-   "cc": "IL",
-   "server": "derile40.mossharbor.xyz",
-   "port": 8443,
-   "secret": "ee34fc0a2b54d93b1e88de37d5a16a6d31706574726f766963682e7275"
-  },
-  {
-   "id": 3724,
-   "time": "2026-11-25T14:17:41+00:00",
-   "cc": "IL",
-   "server": "opal.velvetwindow.cc",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c946f70616c2e76656c76657477696e646f772e6363"
-  },
-  {
-   "id": 3723,
-   "time": "2026-11-25T14:14:31+00:00",
-   "cc": "IL",
-   "server": "forest.velvetwindow.cc",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c94666f726573742e76656c76657477696e646f772e6363"
-  },
-  {
-   "id": 3722,
-   "time": "2026-11-25T14:12:38+00:00",
-   "cc": "IR",
-   "server": "haf.anotelinopalk.co.uk",
-   "port": 8880,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3721,
-   "time": "2026-11-25T14:12:31+00:00",
-   "cc": "IR",
-   "server": "haf.torob.ir.solzairanbad.ir",
-   "port": 8880,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3720,
-   "time": "2026-11-25T14:06:37+00:00",
-   "cc": "DE",
-   "server": "dark1.qavi-13.co.uk",
-   "port": 1550,
-   "secret": "cc4b1c883a3b456d402c73a5c23a42e3"
-  },
-  {
-   "id": 3719,
-   "time": "2026-11-25T13:31:33+00:00",
-   "cc": "DE",
-   "server": "kaktos.mrdatac.ir",
-   "port": 5500,
-   "secret": "e8742282124f08d358551341ead76402"
   }
  ]
 }
