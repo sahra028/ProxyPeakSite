@@ -1,6 +1,70 @@
 {
- "updated": "2026-11-25T00:51:20+00:00",
+ "updated": "2026-11-25T02:15:03+00:00",
  "items": [
+  {
+   "id": 3660,
+   "time": "2026-11-25T02:11:34+00:00",
+   "cc": "US",
+   "server": "dele89.quillmarsh.xyz",
+   "port": 8443,
+   "secret": "ee704c9352bad79b00f1e067772277715664726976652e676f6f676c652e636f6d"
+  },
+  {
+   "id": 3659,
+   "time": "2026-11-25T02:04:31+00:00",
+   "cc": "IR",
+   "server": "server83.server-space52.info",
+   "port": 2020,
+   "secret": "00000000000000000000000000000000"
+  },
+  {
+   "id": 3658,
+   "time": "2026-11-25T02:01:37+00:00",
+   "cc": "IR",
+   "server": "se.torob.ir.solzairanbad.ir",
+   "port": 8880,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3657,
+   "time": "2026-11-25T01:52:30+00:00",
+   "cc": "IR",
+   "server": "do.ionox.co.uk",
+   "port": 8880,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3656,
+   "time": "2026-11-25T01:39:32+00:00",
+   "cc": "DE",
+   "server": "ir-ir.rebol.info",
+   "port": 8443,
+   "secret": "104462821249bd7ac519130220c8dd09"
+  },
+  {
+   "id": 3655,
+   "time": "2026-11-25T01:21:36+00:00",
+   "cc": "DE",
+   "server": "dark2.qavi-13.co.uk",
+   "port": 1550,
+   "secret": "6ec11c2dc77e737d7572fd4714c9037c"
+  },
+  {
+   "id": 3654,
+   "time": "2026-11-25T01:14:37+00:00",
+   "cc": "FI",
+   "server": "name.namenewok.info",
+   "port": 8443,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3653,
+   "time": "2026-11-25T00:58:31+00:00",
+   "cc": "DE",
+   "server": "ahvaz.co.uk",
+   "port": 4455,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
   {
    "id": 3652,
    "time": "2026-11-25T00:49:42+00:00",
@@ -256,70 +320,6 @@
    "server": "irogallery.golgoli1.co.uk",
    "port": 2096,
    "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3620,
-   "time": "2026-11-24T20:40:48+00:00",
-   "cc": "FI",
-   "server": "old.graduat.co.uk",
-   "port": 8443,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3619,
-   "time": "2026-11-24T20:38:41+00:00",
-   "cc": "IR",
-   "server": "se.anotelinopalk.co.uk",
-   "port": 8880,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3618,
-   "time": "2026-11-24T20:38:33+00:00",
-   "cc": "DE",
-   "server": "portal.flashspder.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
-   "id": 3617,
-   "time": "2026-11-24T20:37:40+00:00",
-   "cc": "PL",
-   "server": "dune.velvetwindow.cc",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c9464756e652e76656c76657477696e646f772e6363"
-  },
-  {
-   "id": 3616,
-   "time": "2026-11-24T20:19:32+00:00",
-   "cc": "IR",
-   "server": "server63.server-space52.info",
-   "port": 2020,
-   "secret": "00000000000000000000000000000000"
-  },
-  {
-   "id": 3615,
-   "time": "2026-11-24T20:17:37+00:00",
-   "cc": "IR",
-   "server": "s3.server-space52.info",
-   "port": 2020,
-   "secret": "00000000000000000000000000000000"
-  },
-  {
-   "id": 3614,
-   "time": "2026-11-24T20:13:38+00:00",
-   "cc": "IR",
-   "server": "87.248.144.60",
-   "port": 2053,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3613,
-   "time": "2026-11-24T20:12:39+00:00",
-   "cc": "SC",
-   "server": "193.39.143.70",
-   "port": 443,
-   "secret": "eea339ca5cc76d3f7946a1356a63f0947d6d2e6265626f6f2e7275"
   }
  ]
 }
