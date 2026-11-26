@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-26T12:59:46+00:00",
+ "updated": "2026-11-26T14:21:08+00:00",
  "items": [
+  {
+   "id": 3833,
+   "time": "2026-11-26T14:15:31+00:00",
+   "cc": "DE",
+   "server": "a4.anotelinopalk.co.uk",
+   "port": 8880,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3832,
+   "time": "2026-11-26T14:06:33+00:00",
+   "cc": "IR",
+   "server": "91.234.147.30",
+   "port": 443,
+   "secret": "00000000000000000000000000000000"
+  },
+  {
+   "id": 3831,
+   "time": "2026-11-26T13:25:39+00:00",
+   "cc": "DE",
+   "server": "philadelphia.hezarto.info",
+   "port": 5500,
+   "secret": "7HQighJPBNMYVRNB6tdkVw"
+  },
+  {
+   "id": 3830,
+   "time": "2026-11-26T13:17:31+00:00",
+   "cc": "PL",
+   "server": "this-is.fastnet-vpn.xyz",
+   "port": 4443,
+   "secret": "ee466f3ef394f7c682a47b604deda898ea746869732d69732e666173746e65742d76706e2e78797a"
+  },
   {
    "id": 3829,
    "time": "2026-11-26T12:57:29+00:00",
@@ -287,38 +319,6 @@
    "cc": "DE",
    "server": "puot.mozitop.co.uk",
    "port": 8443,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3793,
-   "time": "2026-11-26T02:48:38+00:00",
-   "cc": "IR",
-   "server": "212.108.98.4.aprawood.ir",
-   "port": 2020,
-   "secret": "AAAAAAAAAAAAAAAAAAAAAA=="
-  },
-  {
-   "id": 3792,
-   "time": "2026-11-26T02:43:34+00:00",
-   "cc": "IR",
-   "server": "87.248.144.92",
-   "port": 2053,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3791,
-   "time": "2026-11-26T02:24:35+00:00",
-   "cc": "BD",
-   "server": "edge.turboass.live",
-   "port": 443,
-   "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665"
-  },
-  {
-   "id": 3790,
-   "time": "2026-11-26T02:24:30+00:00",
-   "cc": "IR",
-   "server": "85.133.200.13",
-   "port": 8880,
    "secret": "79e344818749bd7ac519130220c25d09"
   }
  ]
