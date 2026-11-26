@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-26T08:30:19+00:00",
+ "updated": "2026-11-26T09:57:49+00:00",
  "items": [
+  {
+   "id": 3820,
+   "time": "2026-11-26T09:39:38+00:00",
+   "cc": "IL",
+   "server": "nectar.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c946e65637461722e76656c76657477696e646f772e6363"
+  },
+  {
+   "id": 3819,
+   "time": "2026-11-26T09:38:29+00:00",
+   "cc": "LU",
+   "server": "static.b-telega.shop",
+   "port": 443,
+   "secret": "ee9a3f90be73d8392fd072f9860a2699de7374617469632e622d74656c6567612e73686f70"
+  },
+  {
+   "id": 3818,
+   "time": "2026-11-26T09:37:36+00:00",
+   "cc": "IL",
+   "server": "rimika57.sorrelbay.xyz",
+   "port": 8443,
+   "secret": "ee2ad112aa3c927eb2ebec44fd1733cc49786170692e6f7a6f6e2e7275"
+  },
+  {
+   "id": 3817,
+   "time": "2026-11-26T09:08:36+00:00",
+   "cc": "IR",
+   "server": "91.234.147.18",
+   "port": 443,
+   "secret": "00000000000000000000000000000000"
+  },
   {
    "id": 3816,
    "time": "2026-11-26T08:24:34+00:00",
@@ -288,38 +320,6 @@
    "server": "rain.paperteapot.com",
    "port": 443,
    "secret": "eed09fb30e9ba945e3eb272875413c8c947261696e2e7061706572746561706f742e636f6d"
-  },
-  {
-   "id": 3780,
-   "time": "2026-11-26T01:19:34+00:00",
-   "cc": "IL",
-   "server": "delene17.saltfern.xyz",
-   "port": 8443,
-   "secret": "ee79bb85ccf314a2ae99d362e84ed3104a64726976652e676f6f676c652e636f6d"
-  },
-  {
-   "id": 3779,
-   "time": "2026-11-26T01:14:29+00:00",
-   "cc": "IR",
-   "server": "char.torob.ir.solzairanbad.ir",
-   "port": 8880,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3778,
-   "time": "2026-11-26T01:06:36+00:00",
-   "cc": "IL",
-   "server": "valley.paperteapot.com",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c9476616c6c65792e7061706572746561706f742e636f6d"
-  },
-  {
-   "id": 3777,
-   "time": "2026-11-26T01:01:31+00:00",
-   "cc": "FI",
-   "server": "135.181.213.126",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   }
  ]
 }
