@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-26T22:45:24+00:00",
+ "updated": "2026-11-26T23:44:50+00:00",
  "items": [
+  {
+   "id": 3869,
+   "time": "2026-11-26T23:40:29+00:00",
+   "cc": "DE",
+   "server": "5.222.20.81",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3868,
+   "time": "2026-11-26T23:12:31+00:00",
+   "cc": "DE",
+   "server": "azadi.goooalir.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3867,
+   "time": "2026-11-26T23:10:32+00:00",
+   "cc": "IR",
+   "server": "round.fekr.co.uk",
+   "port": 2083,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3866,
+   "time": "2026-11-26T22:58:30+00:00",
+   "cc": "IR",
+   "server": "afkar.lavazem1.co.uk",
+   "port": 2053,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
   {
    "id": 3865,
    "time": "2026-11-26T22:39:33+00:00",
@@ -288,38 +320,6 @@
    "server": "this-is.fastnet-vpn.xyz",
    "port": 4443,
    "secret": "ee466f3ef394f7c682a47b604deda898ea746869732d69732e666173746e65742d76706e2e78797a"
-  },
-  {
-   "id": 3829,
-   "time": "2026-11-26T12:57:29+00:00",
-   "cc": "HK",
-   "server": "194.120.230.37",
-   "port": 443,
-   "secret": "dd79e7010200010007f0030386e24c3add"
-  },
-  {
-   "id": 3828,
-   "time": "2026-11-26T12:50:37+00:00",
-   "cc": "DE",
-   "server": "benze-benz.ir.osahflahyev.info",
-   "port": 7443,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3827,
-   "time": "2026-11-26T12:29:32+00:00",
-   "cc": "DE",
-   "server": "178.105.249.190",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3826,
-   "time": "2026-11-26T12:03:29+00:00",
-   "cc": "IR",
-   "server": "afkar.lavazem1.co.uk",
-   "port": 2053,
-   "secret": "79e344818749bd7ac519130220c25d09"
   }
  ]
 }
