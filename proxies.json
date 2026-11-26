@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-26T09:57:49+00:00",
+ "updated": "2026-11-26T10:54:35+00:00",
  "items": [
+  {
+   "id": 3822,
+   "time": "2026-11-26T10:26:42+00:00",
+   "cc": "IR",
+   "server": "87.248.144.167",
+   "port": 8880,
+   "secret": "dd1603010200010001fc030386e24c3add"
+  },
+  {
+   "id": 3821,
+   "time": "2026-11-26T10:20:31+00:00",
+   "cc": "DE",
+   "server": "daryapiano.ir",
+   "port": 8443,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
   {
    "id": 3820,
    "time": "2026-11-26T09:39:38+00:00",
@@ -304,22 +320,6 @@
    "server": "zonyzo22.sorrelbay.xyz",
    "port": 8443,
    "secret": "ee0a3c55c05f348a0fc2c17b373f9a9157617669746f2e7275"
-  },
-  {
-   "id": 3782,
-   "time": "2026-11-26T01:27:14+00:00",
-   "cc": "IL",
-   "server": "zonyzo22.sorrelbay.xyz",
-   "port": 8443,
-   "secret": "ee0a3c55c05f348a0fc2c17b373f9a9157617669746f2e7275"
-  },
-  {
-   "id": 3781,
-   "time": "2026-11-26T01:19:38+00:00",
-   "cc": "IL",
-   "server": "rain.paperteapot.com",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c947261696e2e7061706572746561706f742e636f6d"
   }
  ]
 }
