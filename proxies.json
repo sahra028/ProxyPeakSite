@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-26T04:36:25+00:00",
+ "updated": "2026-11-26T05:51:54+00:00",
  "items": [
+  {
+   "id": 3801,
+   "time": "2026-11-26T05:49:34+00:00",
+   "cc": "DE",
+   "server": "cembalo.dorcas.hydrogen.pinoywebtv.com",
+   "port": 443,
+   "secret": "ee1181b4783faf900567e3d3d57e4c374d647a656e2e7275"
+  },
+  {
+   "id": 3800,
+   "time": "2026-11-26T05:18:38+00:00",
+   "cc": "IR",
+   "server": "lol-lock.godserver52.info",
+   "port": 2020,
+   "secret": "00000000000000000000000000000000"
+  },
   {
    "id": 3799,
    "time": "2026-11-26T04:11:34+00:00",
@@ -304,22 +320,6 @@
    "server": "maple.velvetwindow.cc",
    "port": 443,
    "secret": "eed09fb30e9ba945e3eb272875413c8c946d61706c652e76656c76657477696e646f772e6363"
-  },
-  {
-   "id": 3761,
-   "time": "2026-11-25T21:55:36+00:00",
-   "cc": "FI",
-   "server": "171.ir.fulle7.info",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3760,
-   "time": "2026-11-25T21:55:31+00:00",
-   "cc": "DE",
-   "server": "138.201.223.97",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   }
  ]
 }
