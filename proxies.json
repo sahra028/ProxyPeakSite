@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-26T16:35:34+00:00",
+ "updated": "2026-11-26T17:47:35+00:00",
  "items": [
+  {
+   "id": 3844,
+   "time": "2026-11-26T17:15:29+00:00",
+   "cc": "FI",
+   "server": "for-iran.goooalir.co.uk",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3843,
+   "time": "2026-11-26T17:12:31+00:00",
+   "cc": "IR",
+   "server": "zendebad.damavand.co.uk",
+   "port": 2096,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3842,
+   "time": "2026-11-26T17:08:38+00:00",
+   "cc": "RU",
+   "server": "proxy.privateproxy.top",
+   "port": 8443,
+   "secret": "dd17aca106bf110b8efac6b77a545a8be5"
+  },
   {
    "id": 3841,
    "time": "2026-11-26T16:26:36+00:00",
@@ -296,30 +320,6 @@
    "server": "94.130.94.122",
    "port": 8443,
    "secret": "104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3804,
-   "time": "2026-11-26T06:02:34+00:00",
-   "cc": "DE",
-   "server": "a3.anotelinopalk.co.uk",
-   "port": 8880,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3803,
-   "time": "2026-11-26T05:55:29+00:00",
-   "cc": "IL",
-   "server": "on.mishutkin.click",
-   "port": 443,
-   "secret": "eebc740653e2e1fd5972b4a92e5a0dd7826f6e2e6d69736875746b696e2e636c69636b"
-  },
-  {
-   "id": 3802,
-   "time": "2026-11-26T05:53:32+00:00",
-   "cc": "IR",
-   "server": "87.248.144.154",
-   "port": 8880,
-   "secret": "dd79e344818749bd7ac519130220c25d09"
   }
  ]
 }
