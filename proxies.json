@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-26T23:44:50+00:00",
+ "updated": "2026-11-27T00:54:37+00:00",
  "items": [
+  {
+   "id": 3870,
+   "time": "2026-11-26T23:59:33+00:00",
+   "cc": "IR",
+   "server": "se.ionox.co.uk",
+   "port": 8880,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
   {
    "id": 3869,
    "time": "2026-11-26T23:40:29+00:00",
@@ -312,14 +320,6 @@
    "server": "philadelphia.hezarto.info",
    "port": 5500,
    "secret": "7HQighJPBNMYVRNB6tdkVw"
-  },
-  {
-   "id": 3830,
-   "time": "2026-11-26T13:17:31+00:00",
-   "cc": "PL",
-   "server": "this-is.fastnet-vpn.xyz",
-   "port": 4443,
-   "secret": "ee466f3ef394f7c682a47b604deda898ea746869732d69732e666173746e65742d76706e2e78797a"
   }
  ]
 }
