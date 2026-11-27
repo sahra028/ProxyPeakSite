@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-27T21:45:09+00:00",
+ "updated": "2026-11-27T22:46:28+00:00",
  "items": [
+  {
+   "id": 3941,
+   "time": "2026-11-27T22:45:31+00:00",
+   "cc": "US",
+   "server": "orbit.telehelp.top",
+   "port": 443,
+   "secret": "eeca42440ff53ac80d54a90cdad584e47f64726976652e676f6f676c652e636f6d"
+  },
+  {
+   "id": 3940,
+   "time": "2026-11-27T22:21:38+00:00",
+   "cc": "FI",
+   "server": "7kl91.ir.meli-n13.info",
+   "port": 8443,
+   "secret": "104462821249bd7ac519130220c25d09"
+  },
   {
    "id": 3939,
    "time": "2026-11-27T20:46:33+00:00",
@@ -304,22 +320,6 @@
    "server": "uncle.telehelp.top",
    "port": 443,
    "secret": "eed82c6cc1d97c64b7602123fbabd3f537756e636c652e74656c6568656c702e746f70"
-  },
-  {
-   "id": 3901,
-   "time": "2026-11-27T08:22:32+00:00",
-   "cc": "DE",
-   "server": "mizban-p.iaubpanel.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
-   "id": 3900,
-   "time": "2026-11-27T08:04:30+00:00",
-   "cc": "IR",
-   "server": "85.133.200.50",
-   "port": 8880,
-   "secret": "dd1603010200010001fc030386e24c3add"
   }
  ]
 }
