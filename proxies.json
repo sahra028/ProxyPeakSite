@@ -1,6 +1,70 @@
 {
- "updated": "2026-11-27T10:47:30+00:00",
+ "updated": "2026-11-27T11:46:52+00:00",
  "items": [
+  {
+   "id": 3918,
+   "time": "2026-11-27T11:39:30+00:00",
+   "cc": "IR",
+   "server": "faq.slamawna.info",
+   "port": 444,
+   "secret": "dd41b712fe12019c64e281bcb6aeccded7"
+  },
+  {
+   "id": 3917,
+   "time": "2026-11-27T11:36:34+00:00",
+   "cc": "IR",
+   "server": "87.248.144.249",
+   "port": 2096,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+   "id": 3916,
+   "time": "2026-11-27T11:33:36+00:00",
+   "cc": "DE",
+   "server": "breeze.logmanfi.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
+   "id": 3915,
+   "time": "2026-11-27T11:32:31+00:00",
+   "cc": "IR",
+   "server": "91.234.147.37",
+   "port": 2020,
+   "secret": "00000000000000000000000000000000"
+  },
+  {
+   "id": 3914,
+   "time": "2026-11-27T11:26:30+00:00",
+   "cc": "DE",
+   "server": "5.222.1.17",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3913,
+   "time": "2026-11-27T11:21:38+00:00",
+   "cc": "IR",
+   "server": "day.lavazem4.co.uk",
+   "port": 2053,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3912,
+   "time": "2026-11-27T11:05:37+00:00",
+   "cc": "IR",
+   "server": "87.248.144.159",
+   "port": 8880,
+   "secret": "3RYDAQIAAQAB_AMDhuJMOt0"
+  },
+  {
+   "id": 3911,
+   "time": "2026-11-27T10:56:29+00:00",
+   "cc": "DE",
+   "server": "my.fastprx.co.uk",
+   "port": 2052,
+   "secret": "aea1191522c9b281d2633610a34e730d"
+  },
   {
    "id": 3910,
    "time": "2026-11-27T10:32:36+00:00",
@@ -256,70 +320,6 @@
    "server": "plus.khorshid.co.uk",
    "port": 2096,
    "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3878,
-   "time": "2026-11-27T01:46:34+00:00",
-   "cc": "DE",
-   "server": "sushima.ferdosisets.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
-   "id": 3877,
-   "time": "2026-11-27T01:37:30+00:00",
-   "cc": "DE",
-   "server": "speed.runserver.co.uk",
-   "port": 8443,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3876,
-   "time": "2026-11-27T01:27:30+00:00",
-   "cc": "PL",
-   "server": "sage.velvetwindow.cc",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c94736167652e76656c76657477696e646f772e6363"
-  },
-  {
-   "id": 3875,
-   "time": "2026-11-27T01:19:29+00:00",
-   "cc": "PL",
-   "server": "nectar.paperteapot.com",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c946e65637461722e7061706572746561706f742e636f6d"
-  },
-  {
-   "id": 3874,
-   "time": "2026-11-27T01:10:29+00:00",
-   "cc": "IR",
-   "server": "tech.gooodrat.co.uk",
-   "port": 2096,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3873,
-   "time": "2026-11-27T01:02:32+00:00",
-   "cc": "IR",
-   "server": "94.184.39.151",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "id": 3872,
-   "time": "2026-11-27T01:00:33+00:00",
-   "cc": "IR",
-   "server": "85.133.199.21",
-   "port": 8443,
-   "secret": "EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3871,
-   "time": "2026-11-27T00:56:32+00:00",
-   "cc": "FI",
-   "server": "65.109.176.207",
-   "port": 8443,
-   "secret": "dd79e344818749bd7ac519130220c25d09"
   }
  ]
 }
