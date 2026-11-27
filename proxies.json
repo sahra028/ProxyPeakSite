@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-27T02:16:19+00:00",
+ "updated": "2026-11-27T03:28:29+00:00",
  "items": [
+  {
+   "id": 3885,
+   "time": "2026-11-27T03:15:29+00:00",
+   "cc": "DE",
+   "server": "entekhab-vahed.azadaiu.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
+   "id": 3884,
+   "time": "2026-11-27T02:47:36+00:00",
+   "cc": "IR",
+   "server": "91.234.147.28",
+   "port": 2020,
+   "secret": "00000000000000000000000000000000"
+  },
+  {
+   "id": 3883,
+   "time": "2026-11-27T02:43:33+00:00",
+   "cc": "DE",
+   "server": "point-to-point.dablecheckz.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
+   "id": 3882,
+   "time": "2026-11-27T02:34:29+00:00",
+   "cc": "IR",
+   "server": "85.133.194.5",
+   "port": 2020,
+   "secret": "00000000000000000000000000000000"
+  },
   {
    "id": 3881,
    "time": "2026-11-27T02:07:32+00:00",
@@ -288,38 +320,6 @@
    "server": "nocloudnew.co.uk",
    "port": 8443,
    "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3845,
-   "time": "2026-11-26T17:52:29+00:00",
-   "cc": "IR",
-   "server": "banoo.khooorshid.co.uk",
-   "port": 2096,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3844,
-   "time": "2026-11-26T17:15:29+00:00",
-   "cc": "FI",
-   "server": "for-iran.goooalir.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3843,
-   "time": "2026-11-26T17:12:31+00:00",
-   "cc": "IR",
-   "server": "zendebad.damavand.co.uk",
-   "port": 2096,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3842,
-   "time": "2026-11-26T17:08:38+00:00",
-   "cc": "RU",
-   "server": "proxy.privateproxy.top",
-   "port": 8443,
-   "secret": "dd17aca106bf110b8efac6b77a545a8be5"
   }
  ]
 }
