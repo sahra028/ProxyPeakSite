@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-27T16:31:52+00:00",
+ "updated": "2026-11-27T17:47:34+00:00",
  "items": [
+  {
+   "id": 3929,
+   "time": "2026-11-27T17:09:32+00:00",
+   "cc": "FI",
+   "server": "its.fastprx.co.uk",
+   "port": 2086,
+   "secret": "d2289d65c760a8245e24ffc2e3a3ba27"
+  },
   {
    "id": 3928,
    "time": "2026-11-27T16:04:29+00:00",
@@ -312,14 +320,6 @@
    "server": "pro-evolution-soccer.ferdosisets.info",
    "port": 8443,
    "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
-   "id": 3889,
-   "time": "2026-11-27T04:31:29+00:00",
-   "cc": "DE",
-   "server": "5.222.28.90",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   }
  ]
 }
