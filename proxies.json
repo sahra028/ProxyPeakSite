@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-27T00:54:37+00:00",
+ "updated": "2026-11-27T02:16:19+00:00",
  "items": [
+  {
+   "id": 3881,
+   "time": "2026-11-27T02:07:32+00:00",
+   "cc": "FI",
+   "server": "65.21.227.204",
+   "port": 443,
+   "secret": "dd79e7010200010007f0030386e24c3add"
+  },
+  {
+   "id": 3880,
+   "time": "2026-11-27T02:04:33+00:00",
+   "cc": "IR",
+   "server": "85.133.199.22",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+   "id": 3879,
+   "time": "2026-11-27T01:51:29+00:00",
+   "cc": "IR",
+   "server": "plus.khorshid.co.uk",
+   "port": 2096,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3878,
+   "time": "2026-11-27T01:46:34+00:00",
+   "cc": "DE",
+   "server": "sushima.ferdosisets.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
+   "id": 3877,
+   "time": "2026-11-27T01:37:30+00:00",
+   "cc": "DE",
+   "server": "speed.runserver.co.uk",
+   "port": 8443,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3876,
+   "time": "2026-11-27T01:27:30+00:00",
+   "cc": "PL",
+   "server": "sage.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c94736167652e76656c76657477696e646f772e6363"
+  },
+  {
+   "id": 3875,
+   "time": "2026-11-27T01:19:29+00:00",
+   "cc": "PL",
+   "server": "nectar.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c946e65637461722e7061706572746561706f742e636f6d"
+  },
+  {
+   "id": 3874,
+   "time": "2026-11-27T01:10:29+00:00",
+   "cc": "IR",
+   "server": "tech.gooodrat.co.uk",
+   "port": 2096,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3873,
+   "time": "2026-11-27T01:02:32+00:00",
+   "cc": "IR",
+   "server": "94.184.39.151",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
+   "id": 3872,
+   "time": "2026-11-27T01:00:33+00:00",
+   "cc": "IR",
+   "server": "85.133.199.21",
+   "port": 8443,
+   "secret": "EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+   "id": 3871,
+   "time": "2026-11-27T00:56:32+00:00",
+   "cc": "FI",
+   "server": "65.109.176.207",
+   "port": 8443,
+   "secret": "dd79e344818749bd7ac519130220c25d09"
+  },
   {
    "id": 3870,
    "time": "2026-11-26T23:59:33+00:00",
@@ -232,94 +320,6 @@
    "server": "proxy.privateproxy.top",
    "port": 8443,
    "secret": "dd17aca106bf110b8efac6b77a545a8be5"
-  },
-  {
-   "id": 3841,
-   "time": "2026-11-26T16:26:36+00:00",
-   "cc": "IL",
-   "server": "logapo72.kelpmoor.xyz",
-   "port": 443,
-   "secret": "ee2ad112aa3c927eb2ebec44fd1733cc496f7a6f6e2e7275"
-  },
-  {
-   "id": 3840,
-   "time": "2026-11-26T16:24:34+00:00",
-   "cc": "IR",
-   "server": "85.133.194.122",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3839,
-   "time": "2026-11-26T16:23:34+00:00",
-   "cc": "IL",
-   "server": "p.lite64.click",
-   "port": 443,
-   "secret": "eee269911715c9ef9f821d02314e6627d96c69746536342e73697465"
-  },
-  {
-   "id": 3838,
-   "time": "2026-11-26T15:55:32+00:00",
-   "cc": "IR",
-   "server": "87.248.144.50",
-   "port": 2083,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3837,
-   "time": "2026-11-26T15:33:33+00:00",
-   "cc": "DE",
-   "server": "5.222.0.59",
-   "port": 8443,
-   "secret": "104462821249bd7ac519130220c8dd09"
-  },
-  {
-   "id": 3836,
-   "time": "2026-11-26T15:18:31+00:00",
-   "cc": "IR",
-   "server": "91.234.147.28",
-   "port": 443,
-   "secret": "00000000000000000000000000000000"
-  },
-  {
-   "id": 3835,
-   "time": "2026-11-26T14:38:32+00:00",
-   "cc": "IR",
-   "server": "87.248.144.158",
-   "port": 8880,
-   "secret": "dd79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3834,
-   "time": "2026-11-26T14:24:31+00:00",
-   "cc": "SE",
-   "server": "77.216.4.82",
-   "port": 443,
-   "secret": "ee2b867f9c2ab429ed3b5abcaa1fd90f5864726976652e676f6f676c652e636f6d"
-  },
-  {
-   "id": 3833,
-   "time": "2026-11-26T14:15:31+00:00",
-   "cc": "DE",
-   "server": "a4.anotelinopalk.co.uk",
-   "port": 8880,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3832,
-   "time": "2026-11-26T14:06:33+00:00",
-   "cc": "IR",
-   "server": "91.234.147.30",
-   "port": 443,
-   "secret": "00000000000000000000000000000000"
-  },
-  {
-   "id": 3831,
-   "time": "2026-11-26T13:25:39+00:00",
-   "cc": "DE",
-   "server": "philadelphia.hezarto.info",
-   "port": 5500,
-   "secret": "7HQighJPBNMYVRNB6tdkVw"
   }
  ]
 }
