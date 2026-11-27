@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-27T06:59:39+00:00",
+ "updated": "2026-11-27T08:29:40+00:00",
  "items": [
+  {
+   "id": 3901,
+   "time": "2026-11-27T08:22:32+00:00",
+   "cc": "DE",
+   "server": "mizban-p.iaubpanel.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
+   "id": 3900,
+   "time": "2026-11-27T08:04:30+00:00",
+   "cc": "IR",
+   "server": "85.133.200.50",
+   "port": 8880,
+   "secret": "dd1603010200010001fc030386e24c3add"
+  },
+  {
+   "id": 3899,
+   "time": "2026-11-27T07:37:32+00:00",
+   "cc": "FI",
+   "server": "nice.rozinalpoku.co.uk",
+   "port": 8080,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3898,
+   "time": "2026-11-27T07:34:29+00:00",
+   "cc": "DE",
+   "server": "5.222.24.244",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
   {
    "id": 3897,
    "time": "2026-11-27T06:27:30+00:00",
@@ -288,38 +320,6 @@
    "server": "shahname.ferdosisets.info",
    "port": 8443,
    "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
-   "id": 3861,
-   "time": "2026-11-26T22:03:32+00:00",
-   "cc": "FI",
-   "server": "65.109.181.71",
-   "port": 8443,
-   "secret": "dd79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3860,
-   "time": "2026-11-26T21:14:41+00:00",
-   "cc": "PL",
-   "server": "sage.paperteapot.com",
-   "port": 443,
-   "secret": "eed09fb30e9ba945e3eb272875413c8c94736167652e7061706572746561706f742e636f6d"
-  },
-  {
-   "id": 3859,
-   "time": "2026-11-26T21:06:32+00:00",
-   "cc": "DE",
-   "server": "mosakhar.hosiyaman.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
-   "id": 3858,
-   "time": "2026-11-26T20:59:29+00:00",
-   "cc": "IR",
-   "server": "91.234.147.30",
-   "port": 443,
-   "secret": "AAAAAAAAAAAAAAAAAAAAAA=="
   }
  ]
 }
