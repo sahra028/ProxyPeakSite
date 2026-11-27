@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-27T08:29:40+00:00",
+ "updated": "2026-11-27T09:42:12+00:00",
  "items": [
+  {
+   "id": 3907,
+   "time": "2026-11-27T09:35:35+00:00",
+   "cc": "DE",
+   "server": "5.222.9.115",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3906,
+   "time": "2026-11-27T09:33:30+00:00",
+   "cc": "PL",
+   "server": "api-endpoint.burgerking.fun",
+   "port": 4443,
+   "secret": "eef4070d44706a556df403944c7c8aa8236170692d656e64706f696e742e6275726765726b696e672e66756e"
+  },
+  {
+   "id": 3905,
+   "time": "2026-11-27T09:32:32+00:00",
+   "cc": "US",
+   "server": "citrus.velvetwindow.cc",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c946369747275732e76656c76657477696e646f772e6363"
+  },
+  {
+   "id": 3904,
+   "time": "2026-11-27T09:26:32+00:00",
+   "cc": "DE",
+   "server": "95.179.255.101",
+   "port": 443,
+   "secret": "ee7a6047adf345e77b0fcb75c92485211a7777772e6d6f7a696c6c612e6f7267"
+  },
+  {
+   "id": 3903,
+   "time": "2026-11-27T09:05:38+00:00",
+   "cc": "DE",
+   "server": "92.246.87.243",
+   "port": 443,
+   "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+   "id": 3902,
+   "time": "2026-11-27T09:00:38+00:00",
+   "cc": "PL",
+   "server": "uncle.telehelp.top",
+   "port": 443,
+   "secret": "eed82c6cc1d97c64b7602123fbabd3f537756e636c652e74656c6568656c702e746f70"
+  },
   {
    "id": 3901,
    "time": "2026-11-27T08:22:32+00:00",
@@ -272,54 +320,6 @@
    "server": "azadi.goooalir.co.uk",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3867,
-   "time": "2026-11-26T23:10:32+00:00",
-   "cc": "IR",
-   "server": "round.fekr.co.uk",
-   "port": 2083,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3866,
-   "time": "2026-11-26T22:58:30+00:00",
-   "cc": "IR",
-   "server": "afkar.lavazem1.co.uk",
-   "port": 2053,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3865,
-   "time": "2026-11-26T22:39:33+00:00",
-   "cc": "DE",
-   "server": "o06d9opx.ir.ir.ir.meli-n12.info",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3864,
-   "time": "2026-11-26T22:36:35+00:00",
-   "cc": "IR",
-   "server": "87.248.144.159",
-   "port": 8880,
-   "secret": "dd1603010200010001fc030386e24c3add"
-  },
-  {
-   "id": 3863,
-   "time": "2026-11-26T22:27:31+00:00",
-   "cc": "FI",
-   "server": "mamadgoli.co.uk",
-   "port": 4455,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3862,
-   "time": "2026-11-26T22:14:35+00:00",
-   "cc": "DE",
-   "server": "shahname.ferdosisets.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add"
   }
  ]
 }
