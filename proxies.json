@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-27T04:36:38+00:00",
+ "updated": "2026-11-27T05:53:58+00:00",
  "items": [
+  {
+   "id": 3893,
+   "time": "2026-11-27T05:45:36+00:00",
+   "cc": "FI",
+   "server": "ir-landofgods.fourie.co.uk",
+   "port": 8443,
+   "secret": "104462821249bd7ac519130220c8dd09"
+  },
+  {
+   "id": 3892,
+   "time": "2026-11-27T05:32:33+00:00",
+   "cc": "DE",
+   "server": "maman.ir.osahflahyev.info",
+   "port": 7443,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 3891,
+   "time": "2026-11-27T05:26:32+00:00",
+   "cc": "IR",
+   "server": "87.248.144.152",
+   "port": 8880,
+   "secret": "3RYDAQIAAQAB_AMDhuJMOt0"
+  },
+  {
+   "id": 3890,
+   "time": "2026-11-27T05:17:34+00:00",
+   "cc": "DE",
+   "server": "pro-evolution-soccer.ferdosisets.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
   {
    "id": 3889,
    "time": "2026-11-27T04:31:29+00:00",
@@ -288,38 +320,6 @@
    "server": "162.55.45.247",
    "port": 8443,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3853,
-   "time": "2026-11-26T19:34:37+00:00",
-   "cc": "IR",
-   "server": "perfect.lavazem3.co.uk",
-   "port": 2096,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3852,
-   "time": "2026-11-26T19:24:30+00:00",
-   "cc": "FR",
-   "server": "169.58.220.25",
-   "port": 443,
-   "secret": "ee111111111111111111111111111111"
-  },
-  {
-   "id": 3851,
-   "time": "2026-11-26T19:21:31+00:00",
-   "cc": "FI",
-   "server": "GOLD.goooalir.co.uk",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3850,
-   "time": "2026-11-26T19:07:32+00:00",
-   "cc": "IR",
-   "server": "new.nikkhah.co.uk",
-   "port": 2096,
-   "secret": "79e344818749bd7ac519130220c25d09"
   }
  ]
 }
