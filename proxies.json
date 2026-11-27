@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-27T05:53:58+00:00",
+ "updated": "2026-11-27T06:59:39+00:00",
  "items": [
+  {
+   "id": 3897,
+   "time": "2026-11-27T06:27:30+00:00",
+   "cc": "PL",
+   "server": "birch.paperteapot.com",
+   "port": 443,
+   "secret": "eed09fb30e9ba945e3eb272875413c8c9462697263682e7061706572746561706f742e636f6d"
+  },
+  {
+   "id": 3896,
+   "time": "2026-11-27T06:26:39+00:00",
+   "cc": "DE",
+   "server": "tg24.telehelp.top",
+   "port": 443,
+   "secret": "ee42f62948d9f40557b61c2e8b41effed164726976652e676f6f676c652e636f6d"
+  },
+  {
+   "id": 3895,
+   "time": "2026-11-27T06:25:36+00:00",
+   "cc": "PL",
+   "server": "amb.telehelp.top",
+   "port": 443,
+   "secret": "ee5447efddb6d2d618e850c2f2eef65b5964726976652e676f6f676c652e636f6d"
+  },
+  {
+   "id": 3894,
+   "time": "2026-11-27T06:09:33+00:00",
+   "cc": "IR",
+   "server": "87.248.144.151",
+   "port": 8880,
+   "secret": "3RYDAQIAAQAB_AMDhuJMOt0"
+  },
   {
    "id": 3893,
    "time": "2026-11-27T05:45:36+00:00",
@@ -288,38 +320,6 @@
    "server": "91.234.147.30",
    "port": 443,
    "secret": "AAAAAAAAAAAAAAAAAAAAAA=="
-  },
-  {
-   "id": 3857,
-   "time": "2026-11-26T20:56:33+00:00",
-   "cc": "IR",
-   "server": "212.108.98.5",
-   "port": 443,
-   "secret": "dd1603010200010001fc030386e24c3add"
-  },
-  {
-   "id": 3856,
-   "time": "2026-11-26T20:54:33+00:00",
-   "cc": "DE",
-   "server": "professor.hasratepaeiz.website",
-   "port": 7070,
-   "secret": "88e462779949db7ec888130660c40c77"
-  },
-  {
-   "id": 3855,
-   "time": "2026-11-26T20:45:29+00:00",
-   "cc": "DE",
-   "server": "sersinn.info",
-   "port": 8443,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3854,
-   "time": "2026-11-26T20:37:32+00:00",
-   "cc": "DE",
-   "server": "162.55.45.247",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
   }
  ]
 }
