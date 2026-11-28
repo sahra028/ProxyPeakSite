@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-28T13:55:21+00:00",
+ "updated": "2026-11-28T14:38:59+00:00",
  "items": [
+  {
+   "id": 3994,
+   "time": "2026-11-28T14:33:29+00:00",
+   "cc": "IR",
+   "server": "85.133.199.20",
+   "port": 8443,
+   "secret": "104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3993,
+   "time": "2026-11-28T14:30:31+00:00",
+   "cc": "NL",
+   "server": "sudosu.appnormoor.info",
+   "port": 443,
+   "secret": "dd27729feca8dbcd8008c3fa4f12d92793"
+  },
+  {
+   "id": 3992,
+   "time": "2026-11-28T14:28:30+00:00",
+   "cc": "DE",
+   "server": "hex.telehelp.top",
+   "port": 443,
+   "secret": "eeac244c6bafa9d8cc1385ff1b816adb7964726976652e676f6f676c652e636f6d"
+  },
+  {
+   "id": 3991,
+   "time": "2026-11-28T14:26:36+00:00",
+   "cc": "GB",
+   "server": "uk-02.rrhosting.eu",
+   "port": 7960,
+   "secret": "ee6670c1d7f2cb97920f59142e6044d4567777772e676f6f676c652e636f6d"
+  },
   {
    "id": 3990,
    "time": "2026-11-28T13:42:38+00:00",
@@ -288,38 +320,6 @@
    "server": "azure.paperteapot.com",
    "port": 443,
    "secret": "eed09fb30e9ba945e3eb272875413c8c94617a7572652e7061706572746561706f742e636f6d"
-  },
-  {
-   "id": 3954,
-   "time": "2026-11-28T02:21:32+00:00",
-   "cc": "IR",
-   "server": "85.133.194.7",
-   "port": 8443,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3953,
-   "time": "2026-11-28T01:48:29+00:00",
-   "cc": "DE",
-   "server": "gradute.ferdosisets.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
-   "id": 3952,
-   "time": "2026-11-28T01:15:29+00:00",
-   "cc": "FI",
-   "server": "pishi.nanaz.co.uk",
-   "port": 8443,
-   "secret": "104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3951,
-   "time": "2026-11-28T00:16:33+00:00",
-   "cc": "NL",
-   "server": "45.43.92.149",
-   "port": 443,
-   "secret": "dd91e22862830fa52c8ccba7309574af6b"
   }
  ]
 }
