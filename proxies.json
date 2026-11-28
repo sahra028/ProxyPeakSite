@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-28T17:35:47+00:00",
+ "updated": "2026-11-28T18:35:11+00:00",
  "items": [
+  {
+   "id": 4006,
+   "time": "2026-11-28T18:33:39+00:00",
+   "cc": "FI",
+   "server": "dl.linux-orggv.co.uk",
+   "port": 8443,
+   "secret": "104462821249bd7ac519130220c25d09"
+  },
   {
    "id": 4005,
    "time": "2026-11-28T17:25:29+00:00",
@@ -312,14 +320,6 @@
    "server": "ipv4.dablecheckz.info",
    "port": 8443,
    "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
-   "id": 3966,
-   "time": "2026-11-28T05:55:31+00:00",
-   "cc": "DE",
-   "server": "woyowoyo.ebdoradoq.info",
-   "port": 6600,
-   "secret": "d88db99ee3721f0fcb40a4ff63b5cd28"
   }
  ]
 }
