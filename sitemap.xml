@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-<url><loc>https://sahra028.github.io/ProxyPeakSite/</loc><changefreq>daily</changefreq><xhtml:link rel="alternate" hreflang="en" href="https://sahra028.github.io/ProxyPeakSite/"/><xhtml:link rel="alternate" hreflang="fa" href="https://sahra028.github.io/ProxyPeakSite/fa/"/><xhtml:link rel="alternate" hreflang="ru" href="https://sahra028.github.io/ProxyPeakSite/ru/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://sahra028.github.io/ProxyPeakSite/"/></url>
-<url><loc>https://sahra028.github.io/ProxyPeakSite/fa/</loc><changefreq>daily</changefreq><xhtml:link rel="alternate" hreflang="en" href="https://sahra028.github.io/ProxyPeakSite/"/><xhtml:link rel="alternate" hreflang="fa" href="https://sahra028.github.io/ProxyPeakSite/fa/"/><xhtml:link rel="alternate" hreflang="ru" href="https://sahra028.github.io/ProxyPeakSite/ru/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://sahra028.github.io/ProxyPeakSite/"/></url>
-<url><loc>https://sahra028.github.io/ProxyPeakSite/ru/</loc><changefreq>daily</changefreq><xhtml:link rel="alternate" hreflang="en" href="https://sahra028.github.io/ProxyPeakSite/"/><xhtml:link rel="alternate" hreflang="fa" href="https://sahra028.github.io/ProxyPeakSite/fa/"/><xhtml:link rel="alternate" hreflang="ru" href="https://sahra028.github.io/ProxyPeakSite/ru/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://sahra028.github.io/ProxyPeakSite/"/></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://sahra028.github.io/ProxyPeakSite/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sahra028.github.io/ProxyPeakSite/"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://sahra028.github.io/ProxyPeakSite/fa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sahra028.github.io/ProxyPeakSite/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sahra028.github.io/ProxyPeakSite/"/>
+  </url>
+
+  <url>
+    <loc>https://sahra028.github.io/ProxyPeakSite/fa/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sahra028.github.io/ProxyPeakSite/"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://sahra028.github.io/ProxyPeakSite/fa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sahra028.github.io/ProxyPeakSite/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sahra028.github.io/ProxyPeakSite/"/>
+  </url>
+
+  <url>
+    <loc>https://sahra028.github.io/ProxyPeakSite/ru/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sahra028.github.io/ProxyPeakSite/"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://sahra028.github.io/ProxyPeakSite/fa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sahra028.github.io/ProxyPeakSite/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sahra028.github.io/ProxyPeakSite/"/>
+  </url>
+
 </urlset>
