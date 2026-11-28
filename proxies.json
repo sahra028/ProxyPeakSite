@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-28T18:35:11+00:00",
+ "updated": "2026-11-28T19:43:23+00:00",
  "items": [
+  {
+   "id": 4010,
+   "time": "2026-11-28T19:42:33+00:00",
+   "cc": "RS",
+   "server": "185.48.251.111",
+   "port": 443,
+   "secret": "dd3734eba41c93d0154af5016413b6a00e"
+  },
+  {
+   "id": 4009,
+   "time": "2026-11-28T19:22:29+00:00",
+   "cc": "PL",
+   "server": "elite.telehelp.top",
+   "port": 443,
+   "secret": "eece53761a75bac14ee003070656d8304664726976652e676f6f676c652e636f6d"
+  },
+  {
+   "id": 4008,
+   "time": "2026-11-28T19:14:30+00:00",
+   "cc": "PL",
+   "server": "peyk.acharbashi.info",
+   "port": 4515,
+   "secret": "7umk8jsddowEqNfzkSDKW25iaXNjb3R0aS55ZWt0YW5ldC5jb20"
+  },
+  {
+   "id": 4007,
+   "time": "2026-11-28T19:09:32+00:00",
+   "cc": "DE",
+   "server": "wood.kufrel.ir",
+   "port": 443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
   {
    "id": 4006,
    "time": "2026-11-28T18:33:39+00:00",
@@ -288,38 +320,6 @@
    "server": "87.248.144.158",
    "port": 8880,
    "secret": "3XnjRIGHSb16xRkTAiDCXQk"
-  },
-  {
-   "id": 3970,
-   "time": "2026-11-28T06:46:39+00:00",
-   "cc": "NL",
-   "server": "chat.appnormoor.online",
-   "port": 443,
-   "secret": "dd27729feca8dbcd8008c3fa4f12d92793"
-  },
-  {
-   "id": 3969,
-   "time": "2026-11-28T06:36:29+00:00",
-   "cc": "DE",
-   "server": "178.104.214.47",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3968,
-   "time": "2026-11-28T06:33:30+00:00",
-   "cc": "IR",
-   "server": "94.184.39.150",
-   "port": 443,
-   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-   "id": 3967,
-   "time": "2026-11-28T06:31:31+00:00",
-   "cc": "DE",
-   "server": "ipv4.dablecheckz.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add"
   }
  ]
 }
