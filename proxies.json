@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-28T09:42:44+00:00",
+ "updated": "2026-11-28T10:43:29+00:00",
  "items": [
+  {
+   "id": 3977,
+   "time": "2026-11-28T09:58:29+00:00",
+   "cc": "FI",
+   "server": "pesar.nanaz.co.uk",
+   "port": 8443,
+   "secret": "104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3976,
+   "time": "2026-11-28T09:48:33+00:00",
+   "cc": "DE",
+   "server": "33.nasakhamia.co.uk",
+   "port": 8443,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
   {
    "id": 3975,
    "time": "2026-11-28T09:42:33+00:00",
@@ -304,22 +320,6 @@
    "server": "boom.zovqim.ir",
    "port": 443,
    "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3937,
-   "time": "2026-11-27T20:06:29+00:00",
-   "cc": "IR",
-   "server": "48.mt.p6.fo.s.u.44-94-14-4.ir",
-   "port": 8443,
-   "secret": "104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3936,
-   "time": "2026-11-27T19:43:32+00:00",
-   "cc": "IR",
-   "server": "85.133.194.7",
-   "port": 8443,
-   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
   }
  ]
 }
