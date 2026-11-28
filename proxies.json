@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-28T16:38:00+00:00",
+ "updated": "2026-11-28T17:35:47+00:00",
  "items": [
+  {
+   "id": 4005,
+   "time": "2026-11-28T17:25:29+00:00",
+   "cc": "IR",
+   "server": "pro.khoorshid.co.uk",
+   "port": 2096,
+   "secret": "79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "id": 4004,
+   "time": "2026-11-28T16:57:31+00:00",
+   "cc": "DE",
+   "server": "scofield.iaubpanel.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
+  {
+   "id": 4003,
+   "time": "2026-11-28T16:48:30+00:00",
+   "cc": "IR",
+   "server": "winter.lavazem2.co.uk",
+   "port": 2053,
+   "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+  },
   {
    "id": 4002,
    "time": "2026-11-28T15:39:30+00:00",
@@ -296,30 +320,6 @@
    "server": "woyowoyo.ebdoradoq.info",
    "port": 6600,
    "secret": "d88db99ee3721f0fcb40a4ff63b5cd28"
-  },
-  {
-   "id": 3965,
-   "time": "2026-11-28T05:20:33+00:00",
-   "cc": "IR",
-   "server": "dpi.server-space52.info",
-   "port": 443,
-   "secret": "AAAAAAAAAAAAAAAAAAAAAA=="
-  },
-  {
-   "id": 3964,
-   "time": "2026-11-28T05:03:32+00:00",
-   "cc": "DE",
-   "server": "5.222.23.176",
-   "port": 8443,
-   "secret": "dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3963,
-   "time": "2026-11-28T04:48:29+00:00",
-   "cc": "DE",
-   "server": "bi-bakm.37-100jamal.ir",
-   "port": 2020,
-   "secret": "00000000000000000000000000000000"
   }
  ]
 }
