@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-28T08:42:45+00:00",
+ "updated": "2026-11-28T09:42:44+00:00",
  "items": [
+  {
+   "id": 3975,
+   "time": "2026-11-28T09:42:33+00:00",
+   "cc": "CY",
+   "server": "connect.lero.one",
+   "port": 443,
+   "secret": "ee2f25099ee2913cd5796afa4482c0bca46d2e6265626f6f2e7275"
+  },
+  {
+   "id": 3974,
+   "time": "2026-11-28T09:36:29+00:00",
+   "cc": "DE",
+   "server": "box-to-box.dablecheckz.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
   {
    "id": 3973,
    "time": "2026-11-28T08:27:30+00:00",
@@ -304,22 +320,6 @@
    "server": "85.133.194.7",
    "port": 8443,
    "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-   "id": 3935,
-   "time": "2026-11-27T19:24:36+00:00",
-   "cc": "IR",
-   "server": "do.goodrat.co.uk",
-   "port": 2096,
-   "secret": "79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3934,
-   "time": "2026-11-27T19:15:29+00:00",
-   "cc": "JP",
-   "server": "43.165.180.203",
-   "port": 443,
-   "secret": "ee4eb8f095f3d51f6461ad723e6c39245763646e2e6a7364656c6976722e6e6574"
   }
  ]
 }
