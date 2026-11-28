@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-28T06:26:32+00:00",
+ "updated": "2026-11-28T07:45:13+00:00",
  "items": [
+  {
+   "id": 3971,
+   "time": "2026-11-28T07:37:31+00:00",
+   "cc": "IR",
+   "server": "87.248.144.158",
+   "port": 8880,
+   "secret": "3XnjRIGHSb16xRkTAiDCXQk"
+  },
+  {
+   "id": 3970,
+   "time": "2026-11-28T06:46:39+00:00",
+   "cc": "NL",
+   "server": "chat.appnormoor.online",
+   "port": 443,
+   "secret": "dd27729feca8dbcd8008c3fa4f12d92793"
+  },
+  {
+   "id": 3969,
+   "time": "2026-11-28T06:36:29+00:00",
+   "cc": "DE",
+   "server": "178.104.214.47",
+   "port": 8443,
+   "secret": "dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "id": 3968,
+   "time": "2026-11-28T06:33:30+00:00",
+   "cc": "IR",
+   "server": "94.184.39.150",
+   "port": 443,
+   "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
+   "id": 3967,
+   "time": "2026-11-28T06:31:31+00:00",
+   "cc": "DE",
+   "server": "ipv4.dablecheckz.info",
+   "port": 8443,
+   "secret": "1603010200010001fc030386e24c3add"
+  },
   {
    "id": 3966,
    "time": "2026-11-28T05:55:31+00:00",
@@ -280,46 +320,6 @@
    "server": "gany40.ashwren.xyz",
    "port": 8443,
    "secret": "ee302cabde68f0b8c57ca48b73072cd27662726f777365722e79616e6465782e7275"
-  },
-  {
-   "id": 3931,
-   "time": "2026-11-27T18:26:32+00:00",
-   "cc": "IR",
-   "server": "ww.hu.or.ge.j.dl.4.4fk.ir",
-   "port": 8443,
-   "secret": "104462821249bd7ac519130220c25d09"
-  },
-  {
-   "id": 3930,
-   "time": "2026-11-27T17:57:32+00:00",
-   "cc": "IR",
-   "server": "87.248.144.153",
-   "port": 8880,
-   "secret": "dd79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "id": 3929,
-   "time": "2026-11-27T17:09:32+00:00",
-   "cc": "FI",
-   "server": "its.fastprx.co.uk",
-   "port": 2086,
-   "secret": "d2289d65c760a8245e24ffc2e3a3ba27"
-  },
-  {
-   "id": 3928,
-   "time": "2026-11-27T16:04:29+00:00",
-   "cc": "NL",
-   "server": "chat.appnormoor.info",
-   "port": 443,
-   "secret": "dd27729feca8dbcd8008c3fa4f12d92793"
-  },
-  {
-   "id": 3927,
-   "time": "2026-11-27T15:29:29+00:00",
-   "cc": "DE",
-   "server": "company.ferdosisets.info",
-   "port": 8443,
-   "secret": "1603010200010001fc030386e24c3add"
   }
  ]
 }
