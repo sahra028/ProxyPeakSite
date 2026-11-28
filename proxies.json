@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-28T05:27:46+00:00",
+ "updated": "2026-11-28T06:26:32+00:00",
  "items": [
+  {
+   "id": 3966,
+   "time": "2026-11-28T05:55:31+00:00",
+   "cc": "DE",
+   "server": "woyowoyo.ebdoradoq.info",
+   "port": 6600,
+   "secret": "d88db99ee3721f0fcb40a4ff63b5cd28"
+  },
   {
    "id": 3965,
    "time": "2026-11-28T05:20:33+00:00",
@@ -312,14 +320,6 @@
    "server": "company.ferdosisets.info",
    "port": 8443,
    "secret": "1603010200010001fc030386e24c3add"
-  },
-  {
-   "id": 3926,
-   "time": "2026-11-27T14:57:37+00:00",
-   "cc": "FI",
-   "server": "65.21.227.250",
-   "port": 443,
-   "secret": "dd79e7010200010007f0030386e24c3add"
   }
  ]
 }
